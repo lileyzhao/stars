@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: 星標探索者
+    description: "智能整理您的GitHub星標儲存庫，發現寶貴專案"
+    version: '版本: {version}'
+    author: '作者: {author}'
+    start: '>> 準備開始探索您的星標儲存庫...'
+    tagline: '   發現、整理、賦予星標儲存庫新的價值'
+  language:
+    select: '請選擇語言:'
+    choice_prompt: 請輸入數字 (1-{count})
+    success: '語言已設置為: {language_param}'
+  config:
+    env_detected: '從環境變數中檢測到以下配置:'
+    github_username: 'GitHub用戶名: {username}'
+    github_token: 'GitHub令牌: {token}'
+    openai_key: 'OpenAI API密鑰: {key}'
+    openai_url: 'OpenAI API代理URL: {url}'
+    language: '語言: {language_param}'
+    use_env: 是否使用環境變數中的配置?
+    using_env: 將使用環境變數中的配置
+    clear_env: 已清空環境變數配置，請重新輸入
+    current: '當前配置:'
+    masked_token: 已設置
+    masked_key: 已設置
+    no_github_token: 'GitHub令牌: 未設置'
+    default_openai_url: 'OpenAI API代理URL: 使用默認URL'
+    output_dir: '輸出目錄: {dir}'
+  input:
+    github_username: 請輸入GitHub用戶名
+    github_token: 請輸入GitHub個人訪問令牌 (未輸入將使用匿名訪問，可能會受到API限制)
+    github_token_notice: GitHub API有訪問限制，使用個人訪問令牌可以提高限制。
+    openai_key: 請輸入OpenAI API密鑰
+    openai_url: 請輸入OpenAI API代理URL (可選，直接回車使用默認URL)
+    openai_url_notice: 'OpenAI API代理URL格式將被自動處理 (如: api.example.com 將被轉換為 https://api.example.com/v1)'
+    invalid_url: URL格式無效，請重新輸入
+    url_set: 'API代理URL已設置為: {url}'
+  confirmation:
+    analyze_repos: 找到 {count} 個星標儲存庫，是否立即分析?
+    export_results: 是否導出分析結果?
+  info:
+    filtered_private: '過濾私有儲存庫: 總計 {total} 個儲存庫，其中 {public} 個為公開儲存庫'
+  progress:
+    analyzing: 正在分析儲存庫... {progress}% ({current}/{total})
+    rate_limit: '警告: 已達到OpenAI API請求頻率限制，正在重試...'
+    fetching_repos: 正在獲取星標儲存庫...
+    fetched_repos: '已獲取 {count} 個儲存庫，最新: {latest}'
+    processing_data: 正在處理儲存庫數據...
+    fetching_readme: 正在獲取儲存庫README...
+    fetching_readme_count: "正在獲取{count}個儲存庫的README內容..."
+  results:
+    analysis_complete: '分析完成，以下是分類摘要:'
+    category_count: '類別: {category} - {count} 個儲存庫'
+    avg_time: '平均每個儲存庫分析時間: {time} 秒'
+    uncategorized: 未分類
+    no_repos: 沒有找到可分析的儲存庫
+  export:
+    markdown_success: 'Markdown文件已匯出至: {path} (同時已建立latest版本)'
+    json_success: 'JSON文件已匯出至: {path} (同時已建立latest版本)'
+    all_failed: 所有匯出操作均失敗，請檢查輸出目錄設置。
+    export_error: '錯誤: 無法寫入文件至 ''{path}'''
+    export_error_reason: '原因: {reason}'
+    export_error_tip: '提示: 請檢查文件路徑是否正確或您是否有足夠的權限。'
+  completion:
+    success: ✅ Stars 已完成對您星標儲存庫的分析！
+    view_results: '您可以在以下位置查看結果:'
+    markdown: '- Markdown: {path}'
+    json: '- JSON: {path}'
+    thank_you: 感謝使用 Stars！歡迎在 GitHub 上為本項目點星支持！
+  error:
+    program_error: '程序錯誤: {error}'
+    no_repos: 未找到任何星標儲存庫，請檢查GitHub用戶名是否正確。
+    openai_key_invalid: '錯誤: OpenAI API密鑰無效或已過期'
+    openai_key_check: 請檢查API密鑰並重新運行程序
+    connection_error: '錯誤: 無法連接到OpenAI API服務器 ({url})'
+    connection_reasons: '可能原因:'
+    network_issue: '  1. 網絡連接問題'
+    url_config: '  2. API代理URL配置錯誤'
+    service_unavailable: '  3. OpenAI服務暫時不可用'
+    connection_tips: '建議:'
+    check_network: '  1. 檢查網絡連接'
+    check_url: '  2. 確認API代理URL格式正確'
+    retry_later: '  3. 稍後重試或使用其他API代理URL'
+    invalid_url_format: '錯誤: API代理URL格式無效 (''{url}'')'
+    url_format_tip: 請確保輸入有效的URL格式
+    initialization_error: '初始化OpenAI API客戶端時出錯: {error}'
+    cannot_continue: 程序無法繼續，請修正配置後重試
+    fetch_page_error: '獲取第 {page} 頁儲存庫時出錯: {error}'
+    no_starred_repos: 用戶 '{username}' 沒有星標儲存庫或您沒有訪問權限
+    fetch_repos_retry_failed: 多次嘗試獲取儲存庫列表失敗，請檢查網絡連接和GitHub服務狀態
+    fetch_repos_error: '獲取儲存庫列表時出錯: {error}'
+    unknown: 未知
+    process_data_error: '處理儲存庫 {repo} 數據時出錯: {error}'
+cache:
+  no_cache_found: 未找到快取文件，將對所有儲存庫進行分析
+  loaded: 已載入 {count} 個快取儲存庫分析結果
+  load_error: '載入快取文件時出錯: {error}'
+  reused: 複用了 {count}/{total} 個儲存庫的快取分析結果
+  analyzing_new: 正在分析 {count} 個新儲存庫...
+  using_cached: 使用 {count} 個快取儲存庫分析結果
+  readme_all_cached: "所有README均使用快取載入，無需發送API請求（共{total}個儲存庫）"
+  readme_summary: "README載入優化：{cached}個使用快取，{fetch}個通過API獲取（共{total}個）"
+export:
+  md:
+    title: "GitHub 星標圖"
+    slogan: "探索、發現、收藏，構建你的GitHub星標宇宙"
+    generated_by: "由 [Stars](https://github.com/lileyzhao/stars) 生成，用戶: {username}，日期: {date}"
+    created_at: "創建時間"
+    last_updated: "最後更新時間"
+    last_pushed: "最後推送"
+    license: "許可證"
+    topics: "主題"
+    github_pages: "GitHub Pages"
+    none: "無"
+    table_of_contents: "目錄導航"
+    tech_stack: "技術棧"
+    keywords: "關鍵詞"
+    about:
+      title: "關於此頁面"
+      description: "這個頁面是由 [@lileyzhao/stars](https://github.com/lileyzhao/stars) 自動生成的。"
+      subtitle: "這是一個 AI 驅動的 GitHub Stars 智能分類器，可以幫助你更好地管理和展示你的 GitHub Stars。"
+      star_on_github: "在 GitHub 上點星支持"

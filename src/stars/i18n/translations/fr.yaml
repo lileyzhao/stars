@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: Explorateur d'étoiles
+    description: "Organisez intelligemment vos dépôts étoilés GitHub et découvrez des projets précieux"
+    version: 'Version: {version}'
+    author: 'Auteur: {author}'
+    start: '>> Prêt à explorer vos dépôts étoilés...'
+    tagline: '   Découvrez, organisez et donnez une nouvelle valeur à vos dépôts étoilés'
+  language:
+    select: 'Sélectionnez la langue :'
+    choice_prompt: Entrez un numéro (1-{count})
+    success: 'Langue définie sur : {language_param}'
+  config:
+    env_detected: 'Les configurations suivantes ont été détectées à partir des variables d''environnement :'
+    github_username: 'Nom d''utilisateur GitHub : {username}'
+    github_token: 'Jeton GitHub : {token}'
+    openai_key: 'Clé API OpenAI : {key}'
+    openai_url: 'URL proxy API OpenAI : {url}'
+    language: 'Langue : {language_param}'
+    use_env: 'Souhaitez-vous utiliser la configuration des variables d''environnement ?'
+    using_env: 'Utilisation de la configuration des variables d''environnement'
+    clear_env: 'Configuration des variables d''environnement effacée, veuillez la saisir à nouveau'
+    current: 'Configuration actuelle :'
+    masked_token: Configuré
+    masked_key: Configuré
+    no_github_token: 'Jeton GitHub : Non configuré'
+    default_openai_url: 'URL proxy API OpenAI : Utilisation de l''URL par défaut'
+    output_dir: 'Répertoire de sortie : {dir}'
+  input:
+    github_username: 'Veuillez saisir votre nom d''utilisateur GitHub'
+    github_token: 'Veuillez saisir votre jeton d''accès personnel GitHub (laissez vide pour un accès anonyme, soumis à des limites d''API)'
+    github_token_notice: 'L''API GitHub a des limites de taux, l''utilisation d''un jeton d''accès personnel peut les augmenter.'
+    openai_key: 'Veuillez saisir votre clé API OpenAI'
+    openai_url: 'Veuillez saisir l''URL proxy API OpenAI (optionnel, appuyez sur Entrée pour utiliser le domaine par défaut)'
+    openai_url_notice: 'Le format de l''URL proxy API OpenAI sera automatiquement traité (exemple : api.example.com sera transformé en https://api.example.com/v1)'
+    invalid_url: 'Format de domaine invalide, veuillez le saisir à nouveau'
+    url_set: 'URL proxy API définie sur : {url}'
+  confirmation:
+    analyze_repos: '{count} dépôts étoilés trouvés. Commencer l''analyse ?'
+    export_results: 'Exporter les résultats de l''analyse ?'
+  info:
+    filtered_private: 'Filtrage des dépôts privés : {total} dépôts au total, {public} sont publics'
+  progress:
+    analyzing: 'Analyse des dépôts... {progress}% ({current}/{total})'
+    rate_limit: 'Avertissement: Limite de taux de l''API OpenAI atteinte, nouvelle tentative...'
+    fetching_repos: 'Récupération des dépôts suivis...'
+    fetched_repos: '{count} dépôts récupérés, le plus récent: {latest}'
+    processing_data: 'Traitement des données du dépôt...'
+    fetching_readme: 'Récupération du README du dépôt...'
+    fetching_readme_count: 'Récupération du contenu README pour {count} dépôts...'
+  results:
+    analysis_complete: 'Analyse terminée. Voici un résumé par catégorie :'
+    category_count: 'Catégorie : {category} - {count} dépôts'
+    avg_time: 'Temps d''analyse moyen par dépôt : {time} secondes'
+    uncategorized: 'Non catégorisé'
+    no_repos: 'Aucun dépôt trouvé à analyser'
+  export:
+    markdown_success: 'Fichier Markdown exporté vers: {path} (une version ''latest'' a également été créée)'
+    json_success: 'Fichier JSON exporté vers: {path} (une version ''latest'' a également été créée)'
+    all_failed: 'Toutes les opérations d''exportation ont échoué, veuillez vérifier les paramètres du répertoire de sortie.'
+    export_error: 'Erreur: Impossible d''écrire le fichier dans ''{path}'''
+    export_error_reason: 'Raison: {reason}'
+    export_error_tip: 'Conseil: Vérifiez si le chemin du fichier est correct ou si vous disposez des autorisations suffisantes.'
+  completion:
+    success: ✅ Stars a terminé l'analyse de vos dépôts étoilés !
+    view_results: 'Vous pouvez consulter les résultats ici :'
+    markdown: '- Markdown : {path}'
+    json: '- JSON : {path}'
+    thank_you: Merci d'utiliser Stars ! Soutenez le projet en le mettant en étoile sur GitHub !
+  error:
+    program_error: 'Erreur de programme : {error}'
+    no_repos: 'Aucun dépôt étoilé trouvé. Veuillez vérifier que votre nom d''utilisateur GitHub est correct.'
+    openai_key_invalid: 'Erreur : clé API OpenAI invalide ou expirée'
+    openai_key_check: 'Veuillez vérifier votre clé API et redémarrer le programme'
+    connection_error: 'Erreur : impossible de se connecter au serveur API OpenAI ({url})'
+    connection_reasons: 'Causes possibles :'
+    network_issue: '  1. Problème de connexion réseau'
+    url_config: '  2. Erreur de configuration de l''URL proxy API'
+    service_unavailable: '  3. Service OpenAI temporairement indisponible'
+    connection_tips: 'Suggestions :'
+    check_network: '  1. Vérifiez votre connexion réseau'
+    check_url: '  2. Assurez-vous que le format de l''URL proxy API est correct'
+    retry_later: '  3. Réessayez plus tard ou utilisez une autre URL proxy API'
+    invalid_url_format: 'Erreur : format d''URL proxy API invalide (''{url}'')'
+    url_format_tip: 'Veuillez saisir un format d''URL valide'
+    initialization_error: 'Erreur lors de l''initialisation du client API OpenAI : {error}'
+    cannot_continue: 'Impossible de continuer le programme. Veuillez corriger la configuration et réessayer'
+    fetch_page_error: 'Erreur lors de la récupération de la page {page} des dépôts : {error}'
+    no_starred_repos: 'L''utilisateur ''{username}'' n''a pas de dépôts étoilés ou vous n''y avez pas accès'
+    fetch_repos_retry_failed: 'Plusieurs tentatives de récupération de la liste des dépôts ont échoué, veuillez vérifier votre connexion réseau et l''état du service GitHub'
+    fetch_repos_error: 'Erreur lors de la récupération de la liste des dépôts : {error}'
+    unknown: 'Inconnu'
+    process_data_error: 'Erreur lors du traitement des données du dépôt {repo}: {error}'
+cache:
+  no_cache_found: 'Aucun fichier de cache trouvé, tous les dépôts seront analysés'
+  loaded: '{count} résultats d''analyse de dépôts mis en cache chargés'
+  load_error: 'Erreur lors du chargement du fichier de cache : {error}'
+  reused: 'Réutilisation de {count}/{total} résultats d''analyse de dépôts en cache'
+  analyzing_new: 'Analyse de {count} nouveaux dépôts...'
+  using_cached: 'Utilisation de {count} résultats d''analyse de dépôts en cache'
+  readme_all_cached: 'Tous les README ont été chargés depuis le cache, aucune requête API nécessaire (total: {total} dépôts)'
+  readme_summary: 'Optimisation du chargement README : {cached} depuis le cache, {fetch} via l''API (total: {total})'
+export:
+  md:
+    title: "Carte des étoiles GitHub"
+    slogan: "Explorez, découvrez, collectionnez, construisez votre univers GitHub étoilé"
+    generated_by: "Généré par [Stars](https://github.com/lileyzhao/stars), utilisateur: {username}, date: {date}"
+    created_at: "Créé le"
+    last_updated: "Dernière mise à jour"
+    last_pushed: "Dernier push"
+    license: "Licence"
+    topics: "Sujets"
+    github_pages: "GitHub Pages"
+    none: "Aucun"
+    table_of_contents: "Table des matières"
+    tech_stack: "Stack technologique"
+    keywords: "Mots-clés"
+    about:
+      title: "À propos de cette page"
+      description: "Cette page est générée automatiquement par [@lileyzhao/stars](https://github.com/lileyzhao/stars)."
+      subtitle: "C'est un classificateur intelligent de GitHub Stars alimenté par l'IA qui vous aide à mieux gérer et présenter vos GitHub Stars."
+      star_on_github: "Mettre une étoile sur GitHub"

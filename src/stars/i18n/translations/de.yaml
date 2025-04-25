@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: GitHub-Stern-Explorer
+    description: "Organisieren Sie Ihre GitHub-Sterne intelligent und entdecken Sie wertvolle Projekte"
+    version: 'Version: {version}'
+    author: 'Autor: {author}'
+    start: '>> Bereit, Ihre Repositories zu erkunden...'
+    tagline: "Entdecken, organisieren und geben Sie Ihren mit Stern markierten Repositories einen neuen Wert"
+  language:
+    select: 'Sprache wählen:'
+    choice_prompt: Geben Sie eine Nummer ein (1-{count})
+    success: 'Sprache eingestellt auf: {language_param}'
+  config:
+    env_detected: "Die folgenden Konfigurationen wurden aus Umgebungsvariablen erkannt:"
+    github_username: 'GitHub-Benutzername: {username}'
+    github_token: 'GitHub-Token: {token}'
+    openai_key: 'OpenAI-API-Schlüssel: {key}'
+    openai_url: 'OpenAI-API-Proxy-URL: {url}'
+    language: 'Sprache: {language_param}'
+    use_env: "Möchten Sie die Konfigurationen aus Umgebungsvariablen verwenden?"
+    using_env: "Verwende Konfigurationen aus Umgebungsvariablen"
+    clear_env: "Umgebungskonfigurationen gelöscht, bitte erneut eingeben"
+    current: 'Aktuelle Konfiguration:'
+    masked_token: "eingestellt"
+    masked_key: "eingestellt"
+    no_github_token: 'GitHub-Token: nicht eingestellt'
+    default_openai_url: 'OpenAI-API-Proxy-URL: Verwende Standard-URL'
+    output_dir: 'Ausgabeverzeichnis: {dir}'
+  input:
+    github_username: "Bitte geben Sie den GitHub-Benutzernamen ein"
+    github_token: "Bitte geben Sie das persönliche GitHub-Zugriffstoken ein (leer lassen für anonymen Zugriff, unterliegt API-Einschränkungen)"
+    github_token_notice: "Die GitHub-API hat Zugriffsbeschränkungen, die Verwendung eines persönlichen Zugriffstokens kann die Limits verbessern."
+    openai_key: "Bitte geben Sie den OpenAI-API-Schlüssel ein"
+    openai_url: "Bitte geben Sie die OpenAI-API-Proxy-URL ein (optional, drücken Sie Enter, um die Standard-URL zu verwenden)"
+    openai_url_notice: "Das OpenAI-API-Proxy-URL-Format wird automatisch verarbeitet (z.B. wird api.example.com in https://api.example.com/v1 umgewandelt)"
+    invalid_url: "Ungültiges URL-Format, bitte erneut eingeben"
+    url_set: 'API-Proxy-URL wurde eingestellt auf: {url}'
+  confirmation:
+    analyze_repos: '{count} mit Stern markierte Repositories gefunden. Möchten Sie sie jetzt analysieren?'
+    export_results: "Möchten Sie die Analyseergebnisse exportieren?"
+  info:
+    filtered_private: '{total} Repositories insgesamt, {public} sind öffentlich'
+  progress:
+    analyzing: Analysiere Repositories... {progress}% ({current}/{total})
+    rate_limit: 'Warnung: OpenAI API-Ratenlimit erreicht, versuche erneut...'
+    fetching_repos: Rufe mit Stern markierte Repositories ab...
+    fetched_repos: '{count} Repositories abgerufen, neueste: {latest}'
+    processing_data: Verarbeite Repository-Daten...
+    fetching_readme: Hole Repository README...
+    fetching_readme_count: "Lese README-Inhalte für {count} Repositories..."
+  results:
+    analysis_complete: 'Analyse abgeschlossen. Hier ist eine Zusammenfassung der Kategorien:'
+    category_count: 'Kategorie: {category} - {count} Repositories'
+    avg_time: 'Durchschnittliche Analysezeit pro Repository: {time} Sekunden'
+    uncategorized: Nicht kategorisiert
+    no_repos: Keine Repositories zur Analyse gefunden
+  export:
+    markdown_success: 'Markdown-Datei wurde exportiert nach: {path} (eine ''latest''-Version wurde ebenfalls erstellt)'
+    json_success: 'JSON-Datei wurde exportiert nach: {path} (eine ''latest''-Version wurde ebenfalls erstellt)'
+    all_failed: Alle Exportvorgänge sind fehlgeschlagen, bitte überprüfen Sie die Ausgabeverzeichniseinstellungen.
+    export_error: 'Fehler: Datei kann nicht nach ''{path}'' geschrieben werden'
+    export_error_reason: 'Grund: {reason}'
+    export_error_tip: 'Tipp: Überprüfen Sie, ob der Dateipfad korrekt ist oder ob Sie ausreichende Berechtigungen haben.'
+  completion:
+    success: ✅ Stars hat die Analyse Ihrer mit Stern markierten Repositories abgeschlossen!
+    view_results: 'Sie können die Ergebnisse hier einsehen:'
+    markdown: '- Markdown: {path}'
+    json: '- JSON: {path}'
+    thank_you: Vielen Dank für die Nutzung von Stars! Unterstützen Sie das Projekt mit einem Stern auf GitHub!
+  error:
+    program_error: 'Programmfehler: {error}'
+    no_repos: Keine mit Stern markierten Repositories gefunden, bitte überprüfen Sie, ob der GitHub-Benutzername korrekt ist.
+    openai_key_invalid: 'Fehler: OpenAI-API-Schlüssel ist ungültig oder abgelaufen'
+    openai_key_check: Bitte überprüfen Sie Ihren API-Schlüssel und führen Sie das Programm erneut aus
+    connection_error: 'Fehler: Keine Verbindung zum OpenAI-API-Server möglich ({url})'
+    connection_reasons: 'Mögliche Gründe:'
+    network_issue: '  1. Netzwerkverbindungsproblem'
+    url_config: '  2. API-Proxy-URL-Konfigurationsfehler'
+    service_unavailable: '  3. OpenAI-Dienst vorübergehend nicht verfügbar'
+    connection_tips: 'Vorschläge:'
+    check_network: '  1. Netzwerkverbindung überprüfen'
+    check_url: '  2. Bestätigen Sie, dass das API-Proxy-URL-Format korrekt ist'
+    retry_later: '  3. Versuchen Sie es später erneut oder verwenden Sie eine andere API-Proxy-URL'
+    invalid_url_format: 'Fehler: Ungültiges API-Proxy-URL-Format (''{url}'')'
+    url_format_tip: Bitte stellen Sie sicher, dass Sie ein gültiges URL-Format eingeben
+    initialization_error: 'Fehler bei der Initialisierung des OpenAI-API-Clients:{error}'
+    cannot_continue: Das Programm kann nicht fortgesetzt werden, bitte beheben Sie die Konfiguration und versuchen Sie es erneut
+    fetch_page_error: 'Fehler beim Abrufen der Seite {page} der Repositories: {error}'
+    no_starred_repos: Benutzer '{username}' hat keine mit Stern markierten Repositories oder Sie haben keinen Zugriff darauf
+    fetch_repos_retry_failed: Mehrere Versuche, die Repository-Liste abzurufen, sind fehlgeschlagen. Bitte überprüfen Sie die Netzwerkverbindung und den GitHub-Service-Status
+    fetch_repos_error: 'Fehler bei der Abfrage der Repository-Liste: {error}'
+    unknown: Unbekannt
+    process_data_error: 'Fehler bei der Verarbeitung der Repository-Daten {repo}:{error}'
+cache:
+  no_cache_found: Keine Cache-Datei gefunden, alle Repositories werden analysiert
+  loaded: '{count} zwischengespeicherte Repository-Analyseergebnisse geladen'
+  load_error: 'Fehler beim Laden der Cache-Datei: {error}'
+  reused: '{count}/{total} zwischengespeicherte Repository-Analyseergebnisse wiederverwendet'
+  analyzing_new: Analysiere {count} neue Repositories...
+  using_cached: Verwende {count} zwischengespeicherte Repository-Analyseergebnisse
+  readme_all_cached: "Alle READMEs wurden aus dem Cache geladen, keine API-Anfragen erforderlich (insgesamt {total} Repositories)"
+  readme_summary: "README-Zugriff optimiert: {cached} aus Cache, {fetch} über API (insgesamt: {total})"
+export:
+  md:
+    title: "GitHub-Sternkarte"
+    slogan: "Entdecken, sammeln, erforschen, bauen Sie Ihr GitHub-Stern-Universum"
+    generated_by: "Erstellt von [Stars](https://github.com/lileyzhao/stars), Benutzer: {username}, Datum: {date}"
+    created_at: "Erstellt am"
+    last_updated: "Zuletzt aktualisiert"
+    last_pushed: "Zuletzt gepusht"
+    license: "Lizenz"
+    topics: "Themen"
+    github_pages: "GitHub Pages"
+    none: "Keine"
+    table_of_contents: "Inhaltsverzeichnis"
+    tech_stack: "Technologie-Stack"
+    keywords: "Schlüsselwörter"
+    about:
+      title: "Über diese Seite"
+      description: "Diese Seite wurde automatisch von [@lileyzhao/stars](https://github.com/lileyzhao/stars) generiert."
+      subtitle: "Dies ist ein KI-gesteuerter GitHub-Sterne-Intelligenter-Klassifizierer, der Ihnen hilft, Ihre GitHub-Sterne besser zu verwalten und zu präsentieren."
+      star_on_github: "Auf GitHub mit Stern markieren"

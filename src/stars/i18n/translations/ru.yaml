@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: Исследователь Звёзд GitHub
+    description: "Интеллектуально организуйте ваши отмеченные репозитории GitHub и откройте ценные проекты"
+    version: 'Версия: {version}'
+    author: 'Автор: {author}'
+    start: '>> Готов исследовать ваши отмеченные репозитории...'
+    tagline: '   Откройте, организуйте и придайте новую ценность вашим отмеченным репозиториям'
+  language:
+    select: 'Выберите язык:'
+    choice_prompt: Введите номер (1-{count})
+    success: 'Язык установлен на: {language_param}'
+  config:
+    env_detected: 'Следующие настройки были обнаружены из переменных окружения:'
+    github_username: 'Имя пользователя GitHub: {username}'
+    github_token: 'Токен GitHub: {token}'
+    openai_key: 'Ключ API OpenAI: {key}'
+    openai_url: 'Прокси-URL API OpenAI: {url}'
+    language: 'Язык: {language_param}'
+    use_env: Использовать настройки из переменных окружения?
+    using_env: Используются настройки из переменных окружения
+    clear_env: Настройки окружения очищены, пожалуйста, введите их снова
+    current: 'Текущая конфигурация:'
+    masked_token: установлен
+    masked_key: установлен
+    no_github_token: 'Токен GitHub: не установлен'
+    default_openai_url: 'Прокси-URL API OpenAI: используется URL по умолчанию'
+    output_dir: 'Выходная директория: {dir}'
+  input:
+    github_username: Пожалуйста, введите имя пользователя GitHub
+    github_token: Пожалуйста, введите персональный токен доступа GitHub (оставьте пустым для анонимного доступа, с ограничениями API)
+    github_token_notice: API GitHub имеет ограничения доступа, использование персонального токена доступа может увеличить лимиты.
+    openai_key: Пожалуйста, введите ключ API OpenAI
+    openai_url: Пожалуйста, введите прокси-URL API OpenAI (опционально, нажмите Enter для использования URL по умолчанию)
+    openai_url_notice: Формат прокси-URL API OpenAI будет автоматически обработан (например, api.example.com будет преобразован в https://api.example.com/v1)
+    invalid_url: Неверный формат URL, пожалуйста, введите снова
+    url_set: 'Прокси-URL API установлен на: {url}'
+  confirmation:
+    analyze_repos: Найдено {count} отмеченных звёздочкой репозиториев. Хотите проанализировать их сейчас?
+    export_results: Хотите экспортировать результаты анализа?
+  info:
+    filtered_private: 'Фильтрация приватных репозиториев: всего {total} репозиториев, из них {public} публичных'
+  progress:
+    analyzing: Анализ репозиториев... {progress}% ({current}/{total})
+    rate_limit: 'Предупреждение: достигнут лимит запросов API OpenAI, повторная попытка...'
+    fetching_repos: Получение отмеченных репозиториев...
+    fetched_repos: 'Получено {count} репозиториев, последний: {latest}'
+    processing_data: Обработка данных репозитория...
+    fetching_readme: Получение README репозитория...
+    fetching_readme_count: "Получение содержимого README для {count} репозиториев..."
+  results:
+    analysis_complete: 'Анализ завершен. Вот сводка по категориям:'
+    category_count: 'Категория: {category} - {count} репозиториев'
+    avg_time: 'Среднее время анализа на репозиторий: {time} секунд'
+    uncategorized: Без категории
+    no_repos: Не найдено репозиториев для анализа
+  export:
+    markdown_success: 'Файл Markdown был экспортирован в: {path} (также была создана версия ''latest'')'
+    json_success: 'Файл JSON был экспортирован в: {path} (также была создана версия ''latest'')'
+    all_failed: Все операции экспорта не удались, проверьте настройки каталога вывода.
+    export_error: 'Ошибка: Не удается записать файл в ''{path}'''
+    export_error_reason: 'Причина: {reason}'
+    export_error_tip: 'Совет: Проверьте правильность пути к файлу или наличие достаточных разрешений.'
+  completion:
+    success: ✅ Stars завершил анализ ваших отмеченных звёздочкой репозиториев!
+    view_results: 'Вы можете просмотреть результаты здесь:'
+    markdown: '- Markdown: {path}'
+    json: '- JSON: {path}'
+    thank_you: Спасибо за использование Stars! Поддержите проект, отметив его звёздочкой на GitHub!
+  error:
+    program_error: 'Ошибка программы: {error}'
+    no_repos: Не найдено отмеченных звёздочкой репозиториев, проверьте, правильно ли указано имя пользователя GitHub.
+    openai_key_invalid: 'Ошибка: Ключ API OpenAI недействителен или истек'
+    openai_key_check: Пожалуйста, проверьте ваш ключ API и запустите программу снова
+    connection_error: 'Ошибка: Невозможно подключиться к серверу API OpenAI ({url})'
+    connection_reasons: 'Возможные причины:'
+    network_issue: '  1. Проблема с сетевым подключением'
+    url_config: '  2. Ошибка конфигурации прокси-URL API'
+    service_unavailable: '  3. Сервис OpenAI временно недоступен'
+    connection_tips: 'Предложения:'
+    check_network: '  1. Проверьте сетевое подключение'
+    check_url: '  2. Убедитесь, что формат прокси-URL API правильный'
+    retry_later: '  3. Попробуйте позже или используйте другой прокси-URL API'
+    invalid_url_format: 'Ошибка: Неверный формат прокси-URL API (''{url}'')'
+    url_format_tip: Пожалуйста, убедитесь, что вы вводите правильный формат URL
+    initialization_error: 'Ошибка инициализации клиента API OpenAI: {error}'
+    cannot_continue: Программа не может продолжить работу, исправьте конфигурацию и попробуйте снова
+    fetch_page_error: 'Ошибка при получении страницы {page} репозиториев: {error}'
+    no_starred_repos: Пользователь '{username}' не имеет отмеченных звёздочкой репозиториев или у вас нет к ним доступа
+    fetch_repos_retry_failed: Многократные попытки получить список репозиториев не удались, проверьте сетевое подключение и статус сервиса GitHub
+    fetch_repos_error: 'Произошла ошибка при получении списка репозиториев: {error}'
+    unknown: Неизвестно
+    process_data_error: 'Ошибка при обработке данных репозитория {repo}: {error}'
+cache:
+  no_cache_found: Кэш-файл не найден, будут проанализированы все репозитории
+  loaded: Загружено {count} кэшированных результатов анализа репозиториев
+  load_error: 'Ошибка при загрузке кэш-файла: {error}'
+  reused: Повторно использовано {count}/{total} кэшированных результатов анализа репозиториев
+  analyzing_new: Анализ {count} новых репозиториев...
+  using_cached: Использование {count} кэшированных результатов анализа репозиториев
+  readme_all_cached: "Все README загружены из кэша, запросы API не требуются (всего: {total} репозиториев)"
+  readme_summary: "Оптимизация загрузки README: {cached} из кэша, {fetch} через API (всего: {total})"
+export:
+  md:
+    title: "Карта звёзд GitHub"
+    slogan: "Исследуйте, открывайте, собирайте, создавайте свою вселенную отмеченных репозиториев GitHub"
+    generated_by: "Создано [Stars](https://github.com/lileyzhao/stars), пользователь: {username}, дата: {date}"
+    created_at: "Создано"
+    last_updated: "Последнее обновление"
+    last_pushed: "Последний push"
+    license: "Лицензия"
+    topics: "Темы"
+    github_pages: "GitHub Pages"
+    none: "Нет"
+    table_of_contents: "Содержание"
+    tech_stack: "Технологический стек"
+    keywords: "Ключевые слова"
+    about:
+      title: "О этой странице"
+      description: "Эта страница автоматически сгенерирована [@lileyzhao/stars](https://github.com/lileyzhao/stars)."
+      subtitle: "Это интеллектуальный классификатор GitHub Stars на базе ИИ, который помогает вам лучше управлять и демонстрировать ваши GitHub Stars."
+      star_on_github: "Отметить звездой на GitHub"

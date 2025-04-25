@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: スターエクスプローラー
+    description: "GitHubスター付きリポジトリをインテリジェントに整理し、価値のあるプロジェクトを発見"
+    version: 'バージョン: {version}'
+    author: '作者: {author}'
+    start: '>> スター付きリポジトリの探索を始めましょう...'
+    tagline: '   スター付きリポジトリを発見、整理し、新しい価値を与える'
+  language:
+    select: '言語を選択してください:'
+    choice_prompt: 数字を入力してください (1-{count})
+    success: '言語を設定しました: {language_param}'
+  config:
+    env_detected: '環境変数から次の設定が検出されました:'
+    github_username: 'GitHubユーザー名: {username}'
+    github_token: 'GitHubトークン: {token}'
+    openai_key: 'OpenAI APIキー: {key}'
+    openai_url: 'OpenAI APIプロキシURL: {url}'
+    language: '言語: {language_param}'
+    use_env: 環境変数の設定を使用しますか?
+    using_env: 環境変数の設定を使用します
+    clear_env: 環境変数の設定をクリアしました、再入力してください
+    current: '現在の設定:'
+    masked_token: 設定済み
+    masked_key: 設定済み
+    no_github_token: 'GitHubトークン: 未設定'
+    default_openai_url: 'OpenAI APIプロキシURL: デフォルトURLを使用'
+    output_dir: '出力ディレクトリ: {dir}'
+  input:
+    github_username: GitHubユーザー名を入力してください
+    github_token: GitHub個人アクセストークンを入力してください（空白のままにすると匿名アクセスになり、API制限の対象となります）
+    github_token_notice: GitHub APIにはアクセス制限があり、個人アクセストークンを使用すると制限が緩和されます。
+    openai_key: OpenAI APIキーを入力してください
+    openai_url: OpenAI APIプロキシURLを入力してください（オプション、Enterキーを押すとデフォルトURLを使用）
+    openai_url_notice: OpenAI APIプロキシURLのフォーマットは自動的に処理されます（例：api.example.comはhttps://api.example.com/v1に変換されます）
+    invalid_url: URLフォーマットが無効です、再入力してください
+    url_set: 'APIプロキシURLが設定されました: {url}'
+  confirmation:
+    analyze_repos: '{count}個のスター付きリポジトリが見つかりました。分析を開始しますか?'
+    export_results: 分析結果をエクスポートしますか?
+  info:
+    filtered_private: 'プライベートリポジトリをフィルタリング中: 合計{total}個のリポジトリ、そのうち{public}個がパブリックです'
+  progress:
+    analyzing: リポジトリを分析中... {progress}% ({current}/{total})
+    rate_limit: '警告: OpenAI APIのレート制限に達しました、再試行中...'
+    fetching_repos: スター付きリポジトリを取得中...
+    fetched_repos: '{count}個のリポジトリを取得済み、最新: {latest}'
+    processing_data: リポジトリデータを処理中...
+    fetching_readme: リポジトリのREADMEを取得中...
+    fetching_readme_count: "{count}個のリポジトリのREADMEコンテンツを取得中..."
+  results:
+    analysis_complete: '分析完了。カテゴリの概要は次のとおりです:'
+    category_count: 'カテゴリ: {category} - {count}リポジトリ'
+    avg_time: 'リポジトリごとの平均分析時間: {time}秒'
+    uncategorized: 未分類
+    no_repos: 分析するリポジトリが見つかりませんでした
+  export:
+    markdown_success: 'Markdownファイルがエクスポートされました: {path} (''latest''バージョンも作成されました)'
+    json_success: 'JSONファイルがエクスポートされました: {path} (''latest''バージョンも作成されました)'
+    all_failed: すべてのエクスポート操作が失敗しました。出力ディレクトリの設定を確認してください。
+    export_error: 'エラー: ファイルを''{path}''に書き込めません'
+    export_error_reason: '理由: {reason}'
+    export_error_tip: 'ヒント: ファイルパスが正しいか、十分な権限があるかを確認してください。'
+  completion:
+    success: ✅ Starsがスター付きリポジトリの分析を完了しました！
+    view_results: '結果はこちらで確認できます:'
+    markdown: '- Markdown: {path}'
+    json: '- JSON: {path}'
+    thank_you: Starsをご利用いただきありがとうございます！GitHubでプロジェクトにスターを付けて応援してください！
+  error:
+    program_error: 'プログラムエラー: {error}'
+    no_repos: スター付きリポジトリが見つかりませんでした。GitHubユーザー名が正しいか確認してください。
+    openai_key_invalid: 'エラー: OpenAI APIキーが無効または期限切れです'
+    openai_key_check: APIキーを確認してからプログラムを再実行してください
+    connection_error: 'エラー: OpenAI APIサーバーに接続できません ({url})'
+    connection_reasons: '考えられる原因:'
+    network_issue: '  1. ネットワーク接続の問題'
+    url_config: '  2. APIプロキシURLの設定エラー'
+    service_unavailable: '  3. OpenAIサービスが一時的に利用できない'
+    connection_tips: '提案:'
+    check_network: '  1. ネットワーク接続を確認してください'
+    check_url: '  2. APIプロキシURLの形式が正しいことを確認してください'
+    retry_later: '  3. 後で再試行するか、別のAPIプロキシURLを使用してください'
+    invalid_url_format: 'エラー: APIプロキシURLの形式が無効です (''{url}'')'
+    url_format_tip: 有効なURL形式を入力してください
+    initialization_error: 'OpenAI APIクライアントの初期化中にエラーが発生しました: {error}'
+    cannot_continue: プログラムを続行できません。設定を修正して再試行してください
+    fetch_page_error: 'ページ {page} の取得中にエラーが発生しました: {error}'
+    no_starred_repos: ユーザー '{username}' にはスター付きリポジトリがないか、アクセス権限がありません
+    fetch_repos_retry_failed: リポジトリリストの取得が複数回失敗しました。ネットワーク接続とGitHubサービスの状態を確認してください
+    fetch_repos_error: 'リポジトリリストの取得中にエラーが発生しました: {error}'
+    unknown: 不明
+    process_data_error: 'リポジトリ {repo} のデータ処理中にエラーが発生しました: {error}'
+cache:
+  no_cache_found: キャッシュファイルが見つかりません。すべてのリポジトリを分析します
+  loaded: '{count}個のキャッシュされたリポジトリ分析結果を読み込みました'
+  load_error: 'キャッシュファイルの読み込み中にエラーが発生しました: {error}'
+  reused: '{count}/{total}個のリポジトリのキャッシュ分析結果を再利用しました'
+  analyzing_new: '{count}個の新しいリポジトリを分析中...'
+  using_cached: '{count}個のキャッシュされたリポジトリ分析結果を使用します'
+  readme_all_cached: "すべてのREADMEがキャッシュから読み込まれました。APIリクエストは不要です（合計{total}個のリポジトリ）"
+  readme_summary: "READMEアクセス最適化：{cached}個がキャッシュから、{fetch}個がAPIから（合計{total}個）"
+export:
+  md:
+    title: "GitHub スター図"
+    slogan: "探索、発見、収集、あなたのGitHubスター付きリポジトリの宇宙を構築"
+    generated_by: "[Stars](https://github.com/lileyzhao/stars)によって生成、ユーザー: {username}、日付: {date}"
+    created_at: "作成日時"
+    last_updated: "最終更新日時"
+    last_pushed: "最終プッシュ日時"
+    license: "ライセンス"
+    topics: "トピック"
+    github_pages: "GitHub Pages"
+    none: "なし"
+    table_of_contents: "目次"
+    tech_stack: "技術スタック"
+    keywords: "キーワード"
+    about:
+      title: "このページについて"
+      description: "このページは [@lileyzhao/stars](https://github.com/lileyzhao/stars) によって自動生成されています。"
+      subtitle: "これはAIを活用したGitHubスター付きリポジトリのインテリジェント分類器で、GitHubスター付きリポジトリをより効率的に管理し、展示することができます。"
+      star_on_github: "GitHubでスターを付ける"

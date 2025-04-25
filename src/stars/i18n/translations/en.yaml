@@ -1,0 +1,124 @@
+app:
+  name: Stars
+ui:
+  welcome:
+    subtitle: Star Explorer
+    description: "Intelligently organize your GitHub starred repositories and discover valuable projects"
+    version: 'Version: {version}'
+    author: 'Author: {author}'
+    start: '>> Ready to explore your starred repositories...'
+    tagline: '   Discover, organize, and unlock new value for your starred repositories'
+  language:
+    select: 'Select language:'
+    choice_prompt: Enter a number (1-{count})
+    success: 'Language set to: {language_param}'
+  config:
+    env_detected: 'Detected the following configuration from environment variables:'
+    github_username: 'GitHub username: {username}'
+    github_token: 'GitHub token: {token}'
+    openai_key: 'OpenAI API key: {key}'
+    openai_url: 'OpenAI API proxy URL: {url}'
+    language: 'Language: {language_param}'
+    use_env: Use environment variables for configuration?
+    using_env: Will use configuration from environment variables
+    clear_env: Environment configuration cleared, please enter details again
+    current: 'Current configuration:'
+    masked_token: Set
+    masked_key: Set
+    no_github_token: 'GitHub token: Not set'
+    default_openai_url: 'OpenAI API proxy URL: Using default URL'
+    output_dir: 'Output directory: {dir}'
+  info:
+    filtered_private: 'Filtering private repositories: {total} total repositories, {public} are public'
+  input:
+    github_username: Please enter GitHub username
+    github_token: Please enter GitHub personal access token (leave empty to use anonymous access, subject to API limitations)
+    github_token_notice: GitHub API has access limitations, using a personal access token can improve limits.
+    openai_key: Please enter OpenAI API key
+    openai_url: Please enter OpenAI API proxy URL (optional, press Enter to use default domain)
+    openai_url_notice: OpenAI API proxy URL format will be automatically processed (e.g., api.example.com will be converted to https://api.example.com/v1)
+    invalid_url: Invalid domain format, please enter again
+    url_set: 'API proxy URL has been set to: {url}'
+  confirmation:
+    analyze_repos: Found {count} starred repositories. Do you want to analyze them now?
+    export_results: Do you want to export the analysis results?
+  progress:
+    analyzing: Analyzing repositories... {progress}% ({current}/{total})
+    rate_limit: 'Warning: OpenAI API rate limit reached, retrying...'
+    fetching_repos: Fetching starred repositories...
+    fetched_repos: 'Fetched {count} repositories, latest: {latest}'
+    processing_data: Processing repository data...
+    fetching_readme: Fetching repository README...
+    fetching_readme_count: Fetching README content for {count} repositories...
+  results:
+    analysis_complete: 'Analysis complete. Here is a summary of the categories:'
+    category_count: 'Category: {category} - {count} repositories'
+    avg_time: 'Average analysis time per repository: {time} seconds'
+    uncategorized: Uncategorized
+    no_repos: No repositories found to analyze
+  export:
+    markdown_success: 'Markdown file has been exported to: {path} (a latest version was also created)'
+    json_success: 'JSON file has been exported to: {path} (a latest version was also created)'
+    all_failed: All export operations failed, please check output directory settings.
+    export_error: 'Error: Cannot write file to ''{path}'''
+    export_error_reason: 'Reason: {reason}'
+    export_error_tip: 'Tip: Please check if the file path is correct or if you have sufficient permissions.'
+  completion:
+    success: ✅ Stars has completed the analysis of your starred repositories!
+    view_results: 'You can view the results here:'
+    markdown: '- Markdown: {path}'
+    json: '- JSON: {path}'
+    thank_you: Thanks for using Stars! Consider starring this project on GitHub!
+  error:
+    program_error: 'Program error: {error}'
+    no_repos: No starred repositories found, please check if the GitHub username is correct.
+    openai_key_invalid: 'Error: OpenAI API key is invalid or expired'
+    openai_key_check: Please check your API key and run the program again
+    connection_error: 'Error: Cannot connect to OpenAI API server ({url})'
+    connection_reasons: 'Possible reasons:'
+    network_issue: '  1. Network connection issue'
+    url_config: '  2. API proxy URL configuration error'
+    service_unavailable: '  3. OpenAI service temporarily unavailable'
+    connection_tips: 'Suggestions:'
+    check_network: '  1. Check network connection'
+    check_url: '  2. Confirm API proxy URL format is correct'
+    retry_later: '  3. Try again later or use another API proxy URL'
+    invalid_url_format: 'Error: Invalid API proxy URL format (''{url}'')'
+    url_format_tip: Please ensure you're entering a valid URL format
+    initialization_error: 'Error initializing OpenAI API client: {error}'
+    cannot_continue: The program cannot continue, please fix the configuration and try again
+    fetch_page_error: 'Error fetching page {page} of repositories: {error}'
+    no_starred_repos: User '{username}' has no starred repositories or you don't have access
+    fetch_repos_retry_failed: Multiple attempts to fetch repository list failed, please check network connection and GitHub service status
+    fetch_repos_error: 'Error occurred during repository list retrieval: {error}'
+    unknown: Unknown
+    process_data_error: 'Error processing repository {repo} data: {error}'
+cache:
+  no_cache_found: No cache file found, will analyze all repositories
+  loaded: Loaded {count} cached repository analysis results
+  load_error: 'Error loading cache file: {error}'
+  reused: Reused cache analysis results for {count}/{total} repositories
+  analyzing_new: Analyzing {count} new repositories...
+  using_cached: Using {count} cached repository analysis results
+  readme_all_cached: All READMEs loaded from cache, no API requests needed ({total} repositories)
+  readme_summary: 'README access optimized: {cached} from cache, {fetch} via API (total: {total})'
+export:
+  md:
+    title: "GitHub Star Map"
+    slogan: "Explore, discover, collect, build your GitHub starred universe"
+    generated_by: "Generated by [Stars](https://github.com/lileyzhao/stars), user: {username}, date: {date}"
+    created_at: "Created at"
+    last_updated: "Last updated"
+    last_pushed: "Last pushed"
+    license: "License"
+    topics: "Topics"
+    github_pages: "GitHub Pages"
+    none: "None"
+    table_of_contents: "Table of Contents"
+    tech_stack: "Tech Stack"
+    keywords: "Keywords"
+    about:
+      title: "About This Page"
+      description: "This page is automatically generated by [@lileyzhao/stars](https://github.com/lileyzhao/stars)."
+      subtitle: "This is an AI-powered GitHub Stars intelligent classifier that helps you better manage and showcase your GitHub Stars."
+      star_on_github: "Star on GitHub"

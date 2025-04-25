@@ -1,0 +1,125 @@
+app:
+  name: "Stars"
+ui:
+  welcome:
+    subtitle: "星标探索者"
+    description: "智能整理您的GitHub星标仓库，发现宝藏项目"
+    version: "版本: {version}"
+    author: "作者: {author}"
+    start: ">> 准备开启您的星标探索之旅..."
+    tagline: "   发现、整理、赋予星标仓库新的价值"
+  language:
+    select: '选择语言：'
+    choice_prompt: '输入数字（1-{count}）'
+    success: '语言设置为：{language_param}'
+  config:
+    env_detected: "从环境变量中检测到以下配置:"
+    github_username: "GitHub用户名: {username}"
+    github_token: "GitHub令牌: {token}"
+    openai_key: 'OpenAI API密钥：{key}'
+    openai_url: 'OpenAI API代理URL：{url}'
+    language: '语言：{language_param}'
+    use_env: '使用环境变量进行配置？'
+    using_env: "将使用环境变量中的配置"
+    clear_env: "已清空环境配置，请重新输入"
+    current: "当前配置:"
+    masked_token: "已配置"
+    masked_key: "已启用"
+    no_github_token: "GitHub令牌: 未设置"
+    default_openai_url: "OpenAI API代理URL: 使用默认URL"
+    output_dir: "输出目录: {dir}"
+  info:
+    filtered_private: "过滤私有仓库: 总计 {total} 个仓库，其中 {public} 个为公开仓库"
+  input:
+    github_username: "请输入GitHub用户名"
+    github_token: "请输入GitHub个人访问令牌（留空将使用匿名访问，受API限制）"
+    github_token_notice: "GitHub API有访问限制，使用个人访问令牌可提高限制。"
+    openai_key: "请输入OpenAI API密钥"
+    openai_url: "请输入OpenAI API代理URL（可选，直接回车使用默认URL）"
+    openai_url_notice: "OpenAI API代理URL格式将被自动处理（例如: api.example.com 将转换为 https://api.example.com/v1）"
+    invalid_url: "URL格式无效，请重新输入"
+    url_set: "API代理URL已设置为: {url}"
+  confirmation:
+    analyze_repos: "找到 {count} 个星标仓库，是否立即分析?"
+    export_results: "是否导出分析结果?"
+  progress:
+    analyzing: "正在分析仓库... {progress}% ({current}/{total})"
+    rate_limit: "警告: 已达到OpenAI API请求频率限制，正在重试..."
+    fetching_repos: "正在获取仓库列表..."
+    fetched_repos: "已获取 {count} 个仓库，最新: {latest}"
+    processing_data: "正在处理仓库数据..."
+    fetching_readme: "正在获取仓库README..."
+    fetching_readme_count: "正在获取{count}个仓库的README内容..."
+  results:
+    analysis_complete: "分析完成，以下是分类摘要:"
+    category_count: "类别: {category} - {count} 个仓库"
+    avg_time: "平均每个仓库分析时间: {time} 秒"
+    uncategorized: "未分类"
+    no_repos: "没有找到可分析的仓库"
+  export:
+    markdown_success: "Markdown文件已导出至: {path} (同时已创建latest版本)"
+    json_success: "JSON文件已导出至: {path} (同时已创建latest版本)"
+    all_failed: "所有导出操作均失败，请检查输出目录设置。"
+    export_error: "错误: 无法写入文件至 '{path}'"
+    export_error_reason: "原因: {reason}"
+    export_error_tip: "提示: 请检查文件路径是否正确或您是否有足够的权限。"
+    template_error: "模板渲染错误: {error}"
+  completion:
+    success: "✅ Stars 已完成对您星标仓库的分析！"
+    view_results: "您可以在以下位置查看结果:"
+    markdown: "- Markdown: {path}"
+    json: "- JSON: {path}"
+    thank_you: "感谢使用 Stars！欢迎在 GitHub 上为本项目点星支持！"
+  error:
+    program_error: "程序错误: {error}"
+    no_repos: "未找到任何星标仓库，请检查GitHub用户名是否正确。"
+    openai_key_invalid: "错误: OpenAI API密钥无效或已过期"
+    openai_key_check: "请检查API密钥并重新运行程序"
+    connection_error: "错误: 无法连接到OpenAI API服务器 ({url})"
+    connection_reasons: "可能原因:"
+    network_issue: "  1. 网络连接问题"
+    url_config: "  2. API代理URL配置错误"
+    service_unavailable: "  3. OpenAI服务暂时不可用"
+    connection_tips: "建议:"
+    check_network: "  1. 检查网络连接"
+    check_url: "  2. 确认API代理URL格式正确"
+    retry_later: "  3. 稍后重试或使用其他API代理URL"
+    invalid_url_format: "错误: API代理URL格式无效 ('{url}')"
+    url_format_tip: "请确保输入有效的URL格式"
+    initialization_error: "初始化OpenAI API客户端时出错: {error}"
+    cannot_continue: "程序无法继续，请修正配置后重试"
+    fetch_page_error: "获取第 {page} 页仓库时出错: {error}"
+    no_starred_repos: "用户 '{username}' 没有星标仓库或您没有访问权限"
+    fetch_repos_retry_failed: "多次尝试获取仓库列表失败，请检查网络连接和GitHub服务状态"
+    fetch_repos_error: "获取仓库列表时出错: {error}"
+    process_data_error: "处理仓库 {repo} 数据时出错: {error}"
+    unknown: "未知"
+cache:
+  no_cache_found: "未找到缓存文件，将对所有仓库进行分析"
+  loaded: "已加载 {count} 个缓存仓库分析结果"
+  load_error: "加载缓存文件时出错: {error}"
+  reused: "复用了 {count}/{total} 个仓库的缓存分析结果"
+  analyzing_new: "正在分析 {count} 个新仓库..."
+  using_cached: "使用 {count} 个缓存仓库分析结果"
+  readme_all_cached: "所有README均使用缓存加载，无需发送API请求（共{total}个仓库）"
+  readme_summary: "README加载优化：共{total}个，其中{cached}个使用缓存，{fetch}个通过API获取"
+export:
+  md:
+    title: "GitHub 星图"
+    slogan: "探索、发现、收藏，构建你的Github星标宇宙"
+    generated_by: "由 [Stars](https://github.com/lileyzhao/stars) 生成，用户: {username}，日期: {date}"
+    created_at: "创建时间"
+    last_updated: "最后更新时间"
+    last_pushed: "最后推送"
+    license: "许可证"
+    topics: "主题"
+    github_pages: "GitHub Pages"
+    none: "无"
+    table_of_contents: "目录导航"
+    tech_stack: "技术栈"
+    keywords: "关键词"
+    about:
+      title: "关于此页面"
+      description: "这个页面是由 [@lileyzhao/stars](https://github.com/lileyzhao/stars/tree/main/docs) 自动生成的。"
+      subtitle: "这是一个 AI 驱动的 GitHub Stars 智能分类整理工具，可以帮助你更好地管理和展示你的 GitHub Stars。"
+      star_on_github: "在 GitHub 上点星支持"
