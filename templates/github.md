@@ -40,7 +40,7 @@
 
 #### 📦 [{{ repo.full_name }}]({{ repo.html_url }})
 
-[![GitHub stars](https://img.shields.io/github/stars/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/stargazers) [![GitHub forks](https://img.shields.io/github/forks/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/watchers) [![Top Language](https://img.shields.io/github/languages/top/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}) [![GitHub release](https://img.shields.io/github/v/release/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/releases) [![License](https://img.shields.io/github/license/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/blob/master/LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/commits)
+[![GitHub stars](https://img.shields.io/github/stars/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/stargazers) [![Top Language](https://img.shields.io/github/languages/top/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}) [![Last Commit](https://img.shields.io/github/last-commit/{{ repo.full_name }}?style=flat-square)]({{ repo.html_url }}/commits)
 
 > {{ repo.ai_description }}
 
