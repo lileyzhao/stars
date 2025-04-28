@@ -12,7 +12,7 @@ This directory contains Markdown template files for generating GitHub starred re
 
 ## Available Templates
 
-### 1. github.md(github.md)
+### 1. [github.md](github.md)
 
 The default template that provides GitHub-style Markdown format output. Key features:
 
