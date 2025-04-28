@@ -106,7 +106,7 @@ cache:
 export:
   md:
     title: "GitHub 星图"
-    slogan: "探索、发现、收藏，构建你的Github星标宇宙"
+    slogan: "探索、发现、收藏，构建你的GitHub星标宇宙"
     generated_by: "由 [Stars](https://github.com/lileyzhao/stars) 生成，用户: {username}，日期: {date}"
     created_at: "创建时间"
     last_updated: "最后更新时间"
