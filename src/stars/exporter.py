@@ -83,6 +83,23 @@ class ResultExporter:
         """更新翻译器实例，确保使用最新的语言设置"""
         self.translator = get_translator(self.language)
 
+    def _sort_repos_by_category(self, repos: List[Dict]) -> List[Dict]:
+        """
+        按照主分类和子分类对仓库列表进行排序。
+
+        Args:
+            repos: 仓库信息列表
+
+        Returns:
+            排序后的仓库列表
+        """
+        def get_sort_key(repo: Dict) -> Tuple[str, str]:
+            category = repo.get("category", self.translator.get_output_translation('ui.results.uncategorized'))
+            subcategory = repo.get("subcategory", "")
+            return (category, subcategory)
+
+        return sorted(repos, key=get_sort_key)
+
     def export_markdown(self, analyzed_repos: List[Dict], template_name: str = "github.md", overwrite_readme: bool = False) -> Optional[str]:
         """
         将分析结果导出为Markdown格式。
@@ -98,9 +115,12 @@ class ResultExporter:
         # 更新翻译器，确保使用最新的语言设置
         self.update_translator()
         
+        # 对仓库列表进行排序
+        sorted_repos = self._sort_repos_by_category(analyzed_repos)
+        
         # 按类别分组
         groups = {}
-        for repo in analyzed_repos:
+        for repo in sorted_repos:
             category = repo.get("category", self.translator.get_output_translation('ui.results.uncategorized'))
             if category not in groups:
                 groups[category] = []
@@ -182,9 +202,12 @@ class ResultExporter:
         # 更新翻译器，确保使用最新的语言设置
         self.update_translator()
         
+        # 对仓库列表进行排序
+        sorted_repos = self._sort_repos_by_category(analyzed_repos)
+        
         # 准备JSON数据
         data = []
-        for repo in analyzed_repos:
+        for repo in sorted_repos:
             data.append({
                 # 主要识别信息
                 "full_name": repo.get("full_name", ""),
