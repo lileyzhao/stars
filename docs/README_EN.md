@@ -55,6 +55,10 @@ cd stars/src
 uv run main.py
 ```
 
+## 📝 Template
+
+- [template README](templates/README.md)
+
 ## 📋 Tech Stack
 
 - Python 3.11+

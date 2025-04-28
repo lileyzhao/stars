@@ -55,6 +55,10 @@ cd stars/src
 uv run main.py
 ```
 
+## 📝 模板
+
+- [模板 README](templates/README.md)
+
 ## 📋 技术栈
 
 - Python 3.11+

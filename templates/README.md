@@ -1,54 +1,45 @@
-# 星标仓库分析模板
+# 仓库模板
 
-本目录包含用于生成GitHub星标仓库分析报告的模板文件。模板使用Jinja2语法，支持HTML和CSS样式增强，以创建美观的Markdown输出。
+[English Version](README_EN.md)
+
+本目录包含用于生成 GitHub 星标仓库分类的 Markdown 模板文件。这些模板使用 Jinja2 模板引擎，支持 HTML 和 CSS 样式增强，以创建美观且功能丰富的 Markdown 输出。
+
+## 功能特点
+
+- 🎨 支持自定义 HTML 和 CSS 样式
+- 📝 基于 Jinja2 模板引擎
+- 🔄 灵活的模板变量系统
 
 ## 可用模板
 
-### 1. github.md
+### 1. github.md(github.md)
 
-默认模板，提供github风格的Markdown格式输出。
+默认模板，提供 GitHub 风格的 Markdown 格式输出。主要特点：
 
-## 如何使用
+- 清晰的层级结构
+- 优雅的排版样式
+- 支持代码高亮
+- 表格美化
+- 链接样式优化
 
-在运行stars工具时，可以通过`--template`参数指定要使用的模板：
+## 使用说明
 
-```bash
-# 使用默认模板
-python -m src.main --username <你的GitHub用户名>
-
-# 使用美化版模板
-python -m src.main --username <你的GitHub用户名> --template beautiful.md
-
-# 使用现代化模板
-python -m src.main --username <你的GitHub用户名> --template modern.md
-```
-
-## 自定义模板
-
-你可以基于现有模板创建自己的自定义模板：
-
-1. 复制一个现有模板作为起点
-2. 修改HTML/CSS样式和布局
-3. 保存为新的`.md`文件
-4. 使用`--template`参数指定你的自定义模板
-
-## 模板变量
-
-模板中可以使用以下变量：
-
-- `title`: 报告标题
-- `generated_by`: 生成信息
-- `groups`: 按类别分组的仓库数据
-- `last_updated`: "最后更新时间"的翻译
-- `created_at`: "创建时间"的翻译
-- `last_pushed`: "最后推送"的翻译
-- `license`: "许可证"的翻译
-- `topics`: "主题"的翻译
-- `github_pages`: "GitHub Pages"的翻译
-- `none`: "无"的翻译
+1. 选择适合的模板文件
+2. 根据需要修改模板内容
+3. 使用 Jinja2 语法添加动态内容
+4. 预览生成的 Markdown 效果
 
 ## 注意事项
 
-- 模板中的HTML和CSS样式在GitHub上可以正常显示，但在其他Markdown查看器中可能会被忽略
-- 为保证最佳兼容性，模板同时提供了基本的Markdown格式和增强的HTML样式
-- 暗黑模式样式通过CSS媒体查询自动适配系统设置
+- 模板中的 HTML 和 CSS 样式在 GitHub 上可以正常显示，但在其他 Markdown 查看器中可能会被忽略
+- 为保证最佳兼容性，模板同时提供了基本的 Markdown 格式和增强的 HTML 样式
+- 建议在修改模板前先备份原始文件
+- 自定义样式时请注意保持与 GitHub 的兼容性
+
+## 贡献指南
+
+欢迎提交 Pull Request 来改进模板。在提交之前，请确保：
+
+1. 测试模板在不同环境下的显示效果
+2. 保持代码风格的一致性
+3. 更新相关文档
