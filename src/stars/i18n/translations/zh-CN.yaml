@@ -121,5 +121,5 @@ export:
     about:
       title: "关于此页面"
       description: "这个页面是由 [@lileyzhao/stars](https://github.com/lileyzhao/stars/tree/main/docs) 自动生成的。"
-      subtitle: "这是一个 AI 驱动的 GitHub Stars 智能分类整理工具，可以帮助你更好地管理和展示你的 GitHub Stars。"
+      subtitle: "这是一个 AI 驱动的 GitHub Stars 智能分类工具，可以帮助你更好地管理和展示你的 GitHub Stars。"
       star_on_github: "在 GitHub 上点星支持"
