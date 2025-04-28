@@ -68,6 +68,8 @@ uv run main.py
 
 In the endless universe of code, we often mark shining stars (projects), only to get lost in this sea of stars as their numbers grow. Stars was born to solve this problem, helping developers rediscover and organize their collected knowledge, giving meaning to each star and forming their own knowledge galaxy.
 
-## 📃 License
+## Star History
 
-MIT © LileyZhao 
+[![Star History Chart](https://api.star-history.com/svg?repos=lileyzhao/stars&type=Date)](https://star-history.com/#lileyzhao/stars&Date)
+
+---
