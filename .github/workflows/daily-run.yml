@@ -21,12 +21,7 @@ jobs:
       run: |
         curl -LsSf https://astral.sh/uv/install.sh | sh
         echo "$HOME/.cargo/bin" >> $GITHUB_PATH
-        
-    - name: Install dependencies
-      run: |
-        cd src
-        uv pip install -r requirements.txt
-      
+
     - name: Run script
       env:
         LANG: ${{ secrets.LANGUAGE }}
