@@ -4,7 +4,7 @@
 
 {{ slogan }}
 
-[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-{{ github_username }}-blue)](https://github.com/{{ github_username }}?tab=stars) [![Last Updated](https://img.shields.io/badge/Last%20Updated-{{ generated_at }}-blue)](https://github.com/{{ github_username }}/stars) [![Powered by](https://img.shields.io/badge/Powered%20by-@lileyzhao/stars-green)](https://github.com/lileyzhao/stars)
+[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-{{ github_username }}-blue)](https://github.com/{{ github_username }}?tab=stars) [![Last Updated](https://img.shields.io/badge/Last%20Updated-{{ generated_at }}-blue)](https://github.com/{{ github_username }}/stars) [![Powered by](https://img.shields.io/badge/Powered%20by-@lileyzhao/stars-green)](https://github.com/lileyzhao/stars/tree/main/docs)
 
 </div>
 

@@ -88,7 +88,7 @@ Star数: {stargazers_count}
 3. primary_language: 仓库的核心编程语言或技术框架（如全栈应用中的后端语言，例如ASP.NET Core+Vue项目中的C#）
 4. secondary_language: 仓库使用的主要次要编程语言或框架（如全栈应用中的前端技术，例如Vue、React、Angular等）
 5. description: 一句话描述这个仓库的主要用途和特点（必须使用 {language} 语言）
-6. ai_description: 基于你的分析和行业知识，对这个仓库的功能、技术特点和价值的总结描述（必须使用 {language} 语言，1-2句话）
+6. ai_description: 基于你的分析和行业知识，对这个仓库的功能、技术特点和价值进行一句话总结描述（必须使用 {language} 语言，一句话）
 7. confidence: 分类结果的确信度，用0-100%的百分比表示对分类准确性的信心程度
 
 你的回答必须是有效的JSON格式，不要包含其他任何文字。
