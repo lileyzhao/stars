@@ -22,19 +22,29 @@
 {% endfor %}
 ---
 
-{% for category, repos in groups.items() -%}
-## • {{ category }}
+{% for category, repos in groups.items() %}
+
+## {{ category }}
+
 {%- set subcategory_groups = {} -%}
 {%- for repo in repos -%}
+{%- if repo.subcategory and repo.subcategory != "" -%}
 {%- if repo.subcategory not in subcategory_groups -%}
 {%- set _ = subcategory_groups.update({repo.subcategory: []}) -%}
 {%- endif -%}
 {%- set _ = subcategory_groups[repo.subcategory].append(repo) -%}
+{%- else -%}
+{%- if "未分类" not in subcategory_groups -%}
+{%- set _ = subcategory_groups.update({"未分类": []}) -%}
+{%- endif -%}
+{%- set _ = subcategory_groups["未分类"].append(repo) -%}
+{%- endif -%}
 {%- endfor -%}
 {%- for subcategory, subcategory_repos in subcategory_groups.items() -%}
-{%- if subcategory %}
+{%- if subcategory != "未分类" %}
 
-### ◦ {{ subcategory }}
+### {{ subcategory }}
+
 {%- endif -%}
 {%- for repo in subcategory_repos %}
 
@@ -47,6 +57,7 @@
 🔧 **{{ tech_stack }}:** {{ repo.primary_language }}{% if repo.secondary_language %}, {{ repo.secondary_language }}{% endif %}
 
 {% if repo.topics %}🏷️ **{{ keywords }}:** {{ repo.topics }}{% endif %}
+
 {%- endfor -%}
 {%- endfor -%}
 {%- endfor %}
