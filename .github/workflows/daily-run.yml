@@ -11,6 +11,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -26,7 +28,7 @@ jobs:
       env:
         LANG: ${{ secrets.LANGUAGE }}
         USERNAME: ${{ github.repository_owner }}
-        TOKEN: ${{ secrets.GIT_TOKEN }}
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
         KEY: ${{ secrets.OPENAI_KEY }}
       run: |
         cd src
