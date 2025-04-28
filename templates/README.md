@@ -12,7 +12,7 @@
 
 ## 可用模板
 
-### 1. github.md(github.md)
+### 1. [github.md](github.md)
 
 默认模板，提供 GitHub 风格的 Markdown 格式输出。主要特点：
 
