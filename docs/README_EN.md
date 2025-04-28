@@ -26,7 +26,7 @@
 
 1. Clone this repository
 2. Add the following variables under `Settings > Secrets and variables > Actions > Repository secrets`:
-   - `LANGUAGE`: Set interface language, supports the following options:
+   - `LANGUAGE`: Set language, supports the following options:
      - `en`: English
      - `zh-CN`: Simplified Chinese
      - `zh-TW`: Traditional Chinese

@@ -26,7 +26,7 @@
 
 1. 克隆本仓库
 2. 在仓库的 `Settings > Secrets and variables > Actions > Repository secrets` 下新增以下变量：
-   - `LANGUAGE`: 设置界面语言，支持以下选项：
+   - `LANGUAGE`: 设置语言，支持以下选项：
      - `en`: 英语
      - `zh-CN`: 简体中文
      - `zh-TW`: 繁体中文
