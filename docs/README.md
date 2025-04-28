@@ -1,12 +1,10 @@
 # 🌟 Stars
 
+<img src="https://img.shields.io/badge/status-开发中-brightgreen" alt="状态：开发中"> <img src="https://img.shields.io/badge/版本-0.1.0-blue" alt="版本"> <img src="https://img.shields.io/badge/许可证-MIT-orange" alt="许可证">
+
 > **智能整理你的GitHub星标，发现隐藏的知识星系**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-开发中-brightgreen" alt="状态：开发中">
-  <img src="https://img.shields.io/badge/版本-0.1.0-blue" alt="版本">
-  <img src="https://img.shields.io/badge/许可证-MIT-orange" alt="许可证">
-</p>
+[English](README_EN.md) | [简体中文](README.md)
 
 ## 🚀 项目概述
 
@@ -22,19 +20,25 @@
 - **🧠 AI智能分析**：使用OpenAI API对项目进行智能分类和关联分析
 - **📊 数据导出**：支持多种格式导出你的星标数据
 - **🌐 国际化支持**：提供多语言界面
-- **🔄 自动同步**：支持定期自动同步更新
-- **🔗 关联探索**：发现项目间的潜在联系
+- **🔄 自动同步**：支持Actions定期自动同步更新
 
-## 📋 技术栈
+## 🛠️ 快速使用
 
-- Python 3.11+
-- OpenAI API
-- GitHub API
-- Rich CLI
-- Pandas
-- Jinja2
+1. 克隆本仓库
+2. 在仓库的 `Settings > Secrets and variables > Actions > Repository secrets` 下新增以下变量：
+   - `LANGUAGE`: 设置界面语言，支持以下选项：
+     - `en`: 英语
+     - `zh-CN`: 简体中文
+     - `zh-TW`: 繁体中文
+     - `es`: 西班牙语
+     - `ja`: 日语
+     - `fr`: 法语
+     - `de`: 德语
+     - `ru`: 俄语
+   - `OPENAI_KEY`: 你的 OpenAI API 密钥
+3. 在 `Settings > Actions > General` 页面底部，将 `Workflow permissions` 切换至 `Read and write permissions` 并保存
 
-## 🛠️ 安装指南
+## 🛠️ 本地运行
 
 Stars使用uv作为Python包管理工具。确保你安装了Python 3.11+，然后按照以下步骤安装：
 
@@ -50,6 +54,15 @@ cd stars/src
 ```bash
 uv run main.py
 ```
+
+## 📋 技术栈
+
+- Python 3.11+
+- OpenAI API
+- GitHub API
+- Rich CLI
+- Pandas
+- Jinja2
 
 ## 💡 为什么创建Stars？
 
