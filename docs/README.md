@@ -74,6 +74,6 @@ uv run main.py
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lileyzhao/stars&type=Date)](https://star-history.com/#lileyzhao/stars&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lileyzhao/stars&type=Date)](https://www.star-history.com/#lileyzhao/stars&Date)
 
 ---

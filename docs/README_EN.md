@@ -74,6 +74,6 @@ In the endless universe of code, we often mark shining stars (projects), only to
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lileyzhao/stars&type=Date)](https://star-history.com/#lileyzhao/stars&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lileyzhao/stars&type=Date)](https://www.star-history.com/#lileyzhao/stars&Date)
 
 ---
