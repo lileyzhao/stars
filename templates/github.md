@@ -18,13 +18,13 @@
 {%- set _ = subcategories.append(repo.subcategory) %}
 {%- endif %}
 {%- endfor %}
-• **[{{ category }}](#{{ category|replace(' ', '-') }})** - {% for subcategory in subcategories %}[{{ subcategory }}](#{{ subcategory|replace(' ', '-') }}){% if not loop.last %}, {% endif %}{% endfor %}
+• **[{{ category }}](#-{{ category|replace(' ', '-')|replace('/', '') }})** - {% for subcategory in subcategories %}[{{ subcategory }}](#-{{ subcategory|replace(' ', '-')|replace('/', '') }}){% if not loop.last %} {% endif %}{% endfor %}
 {% endfor %}
 ---
 
 {% for category, repos in groups.items() %}
 
-## {{ category }}
+## • {{ category }}
 
 {%- set subcategory_groups = {} -%}
 {%- for repo in repos -%}
@@ -43,7 +43,7 @@
 {%- for subcategory, subcategory_repos in subcategory_groups.items() -%}
 {%- if subcategory != "未分类" %}
 
-### {{ subcategory }}
+### ◦ {{ subcategory }}
 
 {%- endif -%}
 {%- for repo in subcategory_repos %}
