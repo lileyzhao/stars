@@ -1,6 +1,6 @@
 # 🌟 Stars
 
-<img src="https://img.shields.io/badge/status-Development-brightgreen" alt="Status: Development"> <img src="https://img.shields.io/badge/version-0.1.0-blue" alt="Version"> <img src="https://img.shields.io/badge/license-MIT-orange" alt="License">
+<img src="https://img.shields.io/badge/status-Development-brightgreen" alt="Status: Development"> <img src="https://img.shields.io/badge/version-0.1.1-blue" alt="Version"> <img src="https://img.shields.io/badge/license-MIT-orange" alt="License">
 
 > **Intelligently organize your GitHub stars and discover hidden knowledge galaxies**
 

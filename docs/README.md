@@ -1,6 +1,6 @@
 # 🌟 Stars
 
-<img src="https://img.shields.io/badge/status-开发中-brightgreen" alt="状态：开发中"> <img src="https://img.shields.io/badge/版本-0.1.0-blue" alt="版本"> <img src="https://img.shields.io/badge/许可证-MIT-orange" alt="许可证">
+<img src="https://img.shields.io/badge/status-开发中-brightgreen" alt="状态：开发中"> <img src="https://img.shields.io/badge/版本-0.1.1-blue" alt="版本"> <img src="https://img.shields.io/badge/许可证-MIT-orange" alt="许可证">
 
 > **智能整理你的GitHub星标，发现隐藏的知识星系**
 
