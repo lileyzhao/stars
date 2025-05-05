@@ -4,7 +4,7 @@
 
 探索、发现、收藏，构建你的GitHub星标宇宙
 
-[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-lileyzhao-blue)](https://github.com/lileyzhao?tab=stars) [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025/05/04-blue)](https://github.com/lileyzhao/stars) [![Powered by](https://img.shields.io/badge/Powered%20by-@lileyzhao/stars-green)](https://github.com/lileyzhao/stars/tree/main/docs)
+[![GitHub Stars](https://img.shields.io/badge/GitHub%20Stars-lileyzhao-blue)](https://github.com/lileyzhao?tab=stars) [![Last Updated](https://img.shields.io/badge/Last%20Updated-2025/05/05-blue)](https://github.com/lileyzhao/stars) [![Powered by](https://img.shields.io/badge/Powered%20by-@lileyzhao/stars-green)](https://github.com/lileyzhao/stars/tree/main/docs)
 
 </div>
 
@@ -16,19 +16,19 @@
 
 • **[企业应用](#-企业应用)** - [CMS系统](#-CMS系统) [CRM系统](#-CRM系统) [内容管理](#-内容管理) [协作工具](#-协作工具) [后台管理系统](#-后台管理系统) [应用开发平台](#-应用开发平台) [权限管理系统](#-权限管理系统) [电子书资源管理](#-电子书资源管理) [电子商务平台](#-电子商务平台)
 
-• **[前端](#-前端)** - [3D渲染](#-3D渲染) [CSS框架](#-CSS框架) [JavaScript库](#-JavaScript库) [UI框架](#-UI框架) [Web组件](#-Web组件) [主页模板](#-主页模板) [前端工具库](#-前端工具库) [前端框架](#-前端框架) [动画库](#-动画库) [后台管理系统模板](#-后台管理系统模板) [响应式设计](#-响应式设计) [图标库与图标管理工具](#-图标库与图标管理工具) [库](#-库) [构建工具](#-构建工具) [模板/脚手架](#-模板脚手架) [状态管理](#-状态管理) [移动UI库](#-移动UI库) [移动开发框架](#-移动开发框架) [管理后台模板](#-管理后台模板) [组件库](#-组件库) [表单处理](#-表单处理) [资源汇总与组件库](#-资源汇总与组件库) [面试题库](#-面试题库)
+• **[前端](#-前端)** - [3D渲染](#-3D渲染) [CSS框架](#-CSS框架) [JavaScript库](#-JavaScript库) [UI框架](#-UI框架) [Web组件](#-Web组件) [Web组件库](#-Web组件库) [主页模板](#-主页模板) [前端工具库](#-前端工具库) [前端框架](#-前端框架) [动画库](#-动画库) [后台管理系统模板](#-后台管理系统模板) [响应式设计](#-响应式设计) [图标库与图标管理工具](#-图标库与图标管理工具) [库](#-库) [构建工具](#-构建工具) [模板/脚手架](#-模板脚手架) [状态管理](#-状态管理) [移动UI库](#-移动UI库) [移动开发框架](#-移动开发框架) [管理后台模板](#-管理后台模板) [组件库](#-组件库) [表单处理](#-表单处理) [资源汇总与组件库](#-资源汇总与组件库) [面试题库](#-面试题库)
 
 • **[区块链/Web3](#-区块链Web3)** - [区块链基础设施](#-区块链基础设施) [去中心化应用](#-去中心化应用)
 
 • **[后端](#-后端)** - [API框架](#-API框架) [SDK](#-SDK) [中间件](#-中间件) [任务调度](#-任务调度) [全栈框架](#-全栈框架) [分布式系统框架](#-分布式系统框架) [后端框架](#-后端框架) [工作流引擎](#-工作流引擎) [微服务框架](#-微服务框架) [支付服务](#-支付服务) [服务器](#-服务器) [框架](#-框架) [消息队列/消息推送服务](#-消息队列消息推送服务) [缓存系统](#-缓存系统) [身份认证](#-身份认证)
 
-• **[基础设施](#-基础设施)** - [代理服务器](#-代理服务器) [分布式系统](#-分布式系统) [容器化](#-容器化) [无服务器架构](#-无服务器架构) [监控系统](#-监控系统) [网络代理](#-网络代理) [网络代理与路由规则](#-网络代理与路由规则) [网络数据与路由](#-网络数据与路由) [网络服务](#-网络服务)
+• **[基础设施](#-基础设施)** - [代理工具](#-代理工具) [代理服务器](#-代理服务器) [分布式系统](#-分布式系统) [容器化](#-容器化) [无服务器架构](#-无服务器架构) [监控系统](#-监控系统) [网络与路由](#-网络与路由) [网络代理](#-网络代理) [网络代理与路由规则](#-网络代理与路由规则) [网络服务](#-网络服务)
 
 • **[多媒体处理](#-多媒体处理)** - [图像处理](#-图像处理) [媒体库管理工具](#-媒体库管理工具) [媒体转码](#-媒体转码) [字体处理与渲染](#-字体处理与渲染) [字体设计与开发](#-字体设计与开发) [文档处理](#-文档处理) [视频处理](#-视频处理) [音乐播放器](#-音乐播放器) [音频处理](#-音频处理)
 
 • **[安全工具](#-安全工具)** - [代理工具](#-代理工具) [加密工具](#-加密工具) [安全审计](#-安全审计) [网络审查规避](#-网络审查规避) [身份验证](#-身份验证) [身份验证系统](#-身份验证系统)
 
-• **[开发工具](#-开发工具)** - [AI辅助工具](#-AI辅助工具) [API设计工具](#-API设计工具) [DevOps工具](#-DevOps工具) [HTTP客户端库](#-HTTP客户端库) [UI框架](#-UI框架) [代码分析](#-代码分析) [代码分析工具](#-代码分析工具) [代码库/工具库](#-代码库工具库) [代码格式化工具](#-代码格式化工具) [代码生成](#-代码生成) [代码生成器](#-代码生成器) [低代码平台](#-低代码平台) [包管理器](#-包管理器) [字体/编辑器辅助工具](#-字体编辑器辅助工具) [字体工具](#-字体工具) [工作流自动化平台](#-工作流自动化平台) [工具集](#-工具集) [库](#-库) [库/框架](#-库框架) [开发者体验](#-开发者体验) [效率工具平台](#-效率工具平台) [教程与学习资源](#-教程与学习资源) [数据库管理工具](#-数据库管理工具) [文档工具](#-文档工具) [构建工具](#-构建工具) [框架](#-框架) [桌面应用框架](#-桌面应用框架) [模板引擎](#-模板引擎) [测试框架](#-测试框架) [浏览器扩展](#-浏览器扩展) [版本控制工具](#-版本控制工具) [第三方库](#-第三方库) [编辑器](#-编辑器) [编辑器/IDE](#-编辑器IDE) [编辑器/IDE插件](#-编辑器IDE插件) [脚手架工具](#-脚手架工具) [自动化工具](#-自动化工具) [自动化测试与脚本工具](#-自动化测试与脚本工具) [调试工具](#-调试工具)
+• **[开发工具](#-开发工具)** - [AI辅助工具](#-AI辅助工具) [API设计工具](#-API设计工具) [DevOps工具](#-DevOps工具) [HTTP客户端库](#-HTTP客户端库) [UI框架](#-UI框架) [代码分析](#-代码分析) [代码分析工具](#-代码分析工具) [代码库/工具库](#-代码库工具库) [代码格式化工具](#-代码格式化工具) [代码生成](#-代码生成) [低代码平台](#-低代码平台) [包管理器](#-包管理器) [字体/编辑器辅助工具](#-字体编辑器辅助工具) [字体工具](#-字体工具) [工作流自动化平台](#-工作流自动化平台) [工具集](#-工具集) [库](#-库) [库/框架](#-库框架) [开发者体验](#-开发者体验) [效率工具平台](#-效率工具平台) [教程与学习资源](#-教程与学习资源) [数据库管理工具](#-数据库管理工具) [文档工具](#-文档工具) [构建工具](#-构建工具) [框架](#-框架) [桌面应用框架](#-桌面应用框架) [模板引擎](#-模板引擎) [测试框架](#-测试框架) [浏览器扩展](#-浏览器扩展) [版本控制工具](#-版本控制工具) [第三方库](#-第三方库) [编辑器](#-编辑器) [编辑器/IDE](#-编辑器IDE) [编辑器/IDE插件](#-编辑器IDE插件) [脚手架工具](#-脚手架工具) [自动化工具](#-自动化工具) [自动化测试与脚本工具](#-自动化测试与脚本工具) [调试工具](#-调试工具)
 
 • **[开发者体验](#-开发者体验)** - [CLI工具](#-CLI工具) [培训材料](#-培训材料) [学习路线图](#-学习路线图) [文档工具](#-文档工具) [浏览器扩展](#-浏览器扩展) [编程教程/学习资源](#-编程教程学习资源) [脚手架工具](#-脚手架工具) [资源列表](#-资源列表) [资源大全](#-资源大全) [资源汇总](#-资源汇总) [资源汇总与文档](#-资源汇总与文档)
 
@@ -46,7 +46,7 @@
 
 • **[移动开发](#-移动开发)** - [Android开发](#-Android开发) [小程序开发框架](#-小程序开发框架) [移动UI库](#-移动UI库) [移动数据存储](#-移动数据存储) [跨平台框架](#-跨平台框架)
 
-• **[系统工具](#-系统工具)** - [下载管理器](#-下载管理器) [代理工具](#-代理工具) [任务调度](#-任务调度) [多媒体处理](#-多媒体处理) [嵌入式系统工具](#-嵌入式系统工具) [操作系统](#-操作系统) [操作系统组件](#-操作系统组件) [文件同步工具](#-文件同步工具) [文件系统](#-文件系统) [文件系统管理](#-文件系统管理) [文件系统管理工具](#-文件系统管理工具) [服务器管理工具](#-服务器管理工具) [桌面应用](#-桌面应用) [系统优化工具](#-系统优化工具) [系统管理](#-系统管理) [系统管理工具](#-系统管理工具) [网络代理客户端](#-网络代理客户端) [网络代理性能测试工具](#-网络代理性能测试工具) [网络代理规则管理](#-网络代理规则管理) [网络爬虫工具](#-网络爬虫工具) [网络管理工具](#-网络管理工具) [虚拟化工具](#-虚拟化工具) [远程桌面工具](#-远程桌面工具) [远程访问管理工具](#-远程访问管理工具)
+• **[系统工具](#-系统工具)** - [下载管理器](#-下载管理器) [代理客户端](#-代理客户端) [任务调度](#-任务调度) [多媒体处理](#-多媒体处理) [嵌入式系统工具](#-嵌入式系统工具) [操作系统](#-操作系统) [操作系统组件](#-操作系统组件) [文件同步工具](#-文件同步工具) [文件系统](#-文件系统) [文件系统管理](#-文件系统管理) [文件系统管理工具](#-文件系统管理工具) [服务器管理工具](#-服务器管理工具) [桌面应用](#-桌面应用) [系统优化工具](#-系统优化工具) [系统管理](#-系统管理) [系统管理工具](#-系统管理工具) [网络代理工具](#-网络代理工具) [网络代理性能测试工具](#-网络代理性能测试工具) [网络代理规则管理](#-网络代理规则管理) [网络爬虫工具](#-网络爬虫工具) [网络管理工具](#-网络管理工具) [虚拟化工具](#-虚拟化工具) [远程桌面工具](#-远程桌面工具) [远程访问管理工具](#-远程访问管理工具)
 
 • **[编程语言](#-编程语言)** - [标准库](#-标准库) [第三方库](#-第三方库)
 
@@ -60,71 +60,61 @@
 
 ### ◦ AI应用
 
-#### 📦 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
-
-[![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/stargazers) [![Top Language](https://img.shields.io/github/languages/top/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat) [![Last Commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/commits)
-
-> LibreChat集成多种大型语言模型和工具，提供安全隔离的代码执行、多模态交互及丰富的定制功能，是一个功能完善且活跃的开源AI聊天助手平台。
-
-🔧 **技术栈:** TypeScript, React
-
-🏷️ **关键词:** ai,anthropic,artifacts,assistant-api,aws,azure,chatgpt,chatgpt-clone,claude,clone,dall-e-3,deepseek,gemini,google,librechat,o1,openai,plugins,vision,webui
-
-#### 📦 [langgenius/dify](https://github.com/langgenius/dify)
-
-[![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/stargazers) [![Top Language](https://img.shields.io/github/languages/top/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify) [![Last Commit](https://img.shields.io/github/last-commit/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/commits)
-
-> Dify通过可视化工作流和丰富的模型支持，提供端到端的大语言模型应用开发与运维平台，助力开发者高效构建和管理智能应用。
-
-🔧 **技术栈:** Python, Next.js
-
-🏷️ **关键词:** agent,ai,anthropic,backend-as-a-service,chatbot,gemini,genai,gpt,gpt-4,llama3,llm,llmops,nextjs,openai,orchestration,python,rag,workflow,workflows
-
 #### 📦 [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 
 [![GitHub stars](https://img.shields.io/github/stars/QuantumNous/new-api?style=flat-square)](https://github.com/QuantumNous/new-api/stargazers) [![Top Language](https://img.shields.io/github/languages/top/QuantumNous/new-api?style=flat-square)](https://github.com/QuantumNous/new-api) [![Last Commit](https://img.shields.io/github/last-commit/QuantumNous/new-api?style=flat-square)](https://github.com/QuantumNous/new-api/commits)
 
-> New API通过统一接口管理多种大型语言模型及其调用渠道，提供多语言支持、计费管理、缓存和多渠道路由等功能，是面向企业和个人的下一代大模型网关与AI资产管理系统。
+> New API通过统一管理和分发多种大语言模型接口，支持多语言、多渠道和多种计费策略，提供高效灵活的AI资产管理和调用网关解决方案。
 
 🔧 **技术栈:** Go, JavaScript
 
 🏷️ **关键词:** ai-gateway,claude,deepseek,gemini,openai,rerank
 
+#### 📦 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+
+[![GitHub stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/stargazers) [![Top Language](https://img.shields.io/github/languages/top/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat) [![Last Commit](https://img.shields.io/github/last-commit/danny-avila/LibreChat?style=flat-square)](https://github.com/danny-avila/LibreChat/commits)
+
+> LibreChat集成多种大型语言模型和AI服务，提供安全的代码执行、图像生成、多模态交互及多用户管理，打造功能丰富且可自定义的开源智能聊天助手平台。
+
+🔧 **技术栈:** TypeScript, React
+
+🏷️ **关键词:** ai,anthropic,artifacts,assistant-api,aws,azure,chatgpt,chatgpt-clone,claude,clone,dall-e-3,deepseek,gemini,google,librechat,o1,openai,plugins,vision,webui
+
 #### 📦 [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 
 [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)](https://github.com/lobehub/lobe-chat/stargazers) [![Top Language](https://img.shields.io/github/languages/top/lobehub/lobe-chat?style=flat-square)](https://github.com/lobehub/lobe-chat) [![Last Commit](https://img.shields.io/github/last-commit/lobehub/lobe-chat?style=flat-square)](https://github.com/lobehub/lobe-chat/commits)
 
-> Lobe Chat通过集成多种大型语言模型服务、多模态交互和插件扩展，构建了一个高性能、可定制且易部署的现代AI聊天框架，极大提升了AI对话的灵活性和实用性。
-
-🔧 **技术栈:** TypeScript, Next.js
-
-🏷️ **关键词:** agent,ai,artifacts,chat,chatgpt,claude,deepseek,deepseek-r1,function-calling,gemini,gpt,knowledge-base,nextjs,ollama,openai,rag
-
-#### 📦 [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
-
-[![GitHub stars](https://img.shields.io/github/stars/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/stargazers) [![Top Language](https://img.shields.io/github/languages/top/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy) [![Last Commit](https://img.shields.io/github/last-commit/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/commits)
-
-> 该项目通过整合ChatGPT和Midjourney代理接口，结合多模态生成技术，实现了一个功能丰富、支持多平台部署的开源AI多模态交互应用，极大提升了用户体验和应用场景的多样性。
+> Lobe Chat通过集成多模型服务、多模态交互、插件系统及知识库功能，打造高扩展性和用户友好的AI聊天框架，助力开发者快速部署定制化智能对话应用。
 
 🔧 **技术栈:** TypeScript, React
 
-🏷️ **关键词:** chatgpt-ui,claude-3,flux,gpts,gpts-ui,gptstore,ideogram,kling,luma,midjourney,midjourney-ui,pika,realtime,runway,suno,udio,viggle,vision,whisper-ui
+🏷️ **关键词:** agent,ai,artifacts,chat,chatgpt,claude,deepseek,deepseek-r1,function-calling,gemini,gpt,knowledge-base,nextjs,ollama,openai,rag
 
 #### 📦 [lileyzhao/stars](https://github.com/lileyzhao/stars)
 
 [![GitHub stars](https://img.shields.io/github/stars/lileyzhao/stars?style=flat-square)](https://github.com/lileyzhao/stars/stargazers) [![Top Language](https://img.shields.io/github/languages/top/lileyzhao/stars?style=flat-square)](https://github.com/lileyzhao/stars) [![Last Commit](https://img.shields.io/github/last-commit/lileyzhao/stars?style=flat-square)](https://github.com/lileyzhao/stars/commits)
 
-> 这是一个基于人工智能的GitHub Stars智能分类工具，通过自动化整理和推荐，提升开发者对收藏项目的管理效率和体验。
+> 该项目利用AI技术智能分类和管理GitHub收藏星标，提升开发者的项目发现和组织效率，体现了AI在开发者工具领域的创新应用。
 
 🔧 **技术栈:** JavaScript
 
 🏷️ **关键词:** stars
 
+#### 📦 [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot)
+
+[![GitHub stars](https://img.shields.io/github/stars/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot/stargazers) [![Top Language](https://img.shields.io/github/languages/top/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot) [![Last Commit](https://img.shields.io/github/last-commit/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot/commits)
+
+> LangBot通过原生支持多种大模型和聊天平台，提供高稳定性、多模态能力及插件扩展，构建了一个功能完备且易用的即时通信机器人生态系统。
+
+🔧 **技术栈:** Python
+
+🏷️ **关键词:** agent,chatgpt,deepseeek,dify,llm,openai,plugins,qq,telegram,wechat
+
 #### 📦 [RiseInRose/AgentGPT-zh](https://github.com/RiseInRose/AgentGPT-zh)
 
 [![GitHub stars](https://img.shields.io/github/stars/RiseInRose/AgentGPT-zh?style=flat-square)](https://github.com/RiseInRose/AgentGPT-zh/stargazers) [![Top Language](https://img.shields.io/github/languages/top/RiseInRose/AgentGPT-zh?style=flat-square)](https://github.com/RiseInRose/AgentGPT-zh) [![Last Commit](https://img.shields.io/github/last-commit/RiseInRose/AgentGPT-zh?style=flat-square)](https://github.com/RiseInRose/AgentGPT-zh/commits)
 
-> 该项目基于现代全栈技术栈，提供自主AI代理的配置与部署平台，支持任务自动执行和学习，推动人工智能自主性应用的发展。
+> 该项目基于现代全栈技术栈，提供自主AI代理的配置和部署平台，支持任务自动化和智能学习，推动AI自主性应用的发展。
 
 🔧 **技术栈:** TypeScript, Next.js
 
@@ -139,6 +129,16 @@
 🔧 **技术栈:** Node.js, React
 
 
+
+#### 📦 [langgenius/dify](https://github.com/langgenius/dify)
+
+[![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/stargazers) [![Top Language](https://img.shields.io/github/languages/top/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify) [![Last Commit](https://img.shields.io/github/last-commit/langgenius/dify?style=flat-square)](https://github.com/langgenius/dify/commits)
+
+> Dify通过可视化工作流和丰富的模型支持，提供端到端的大语言模型应用开发与运维平台，助力开发者高效构建和管理智能应用。
+
+🔧 **技术栈:** Python, Next.js
+
+🏷️ **关键词:** agent,ai,anthropic,backend-as-a-service,chatbot,gemini,genai,gpt,gpt-4,llama3,llm,llmops,nextjs,openai,orchestration,python,rag,workflow,workflows
 
 #### 📦 [302ai/302_tts](https://github.com/302ai/302_tts)
 
@@ -250,6 +250,16 @@
 
 🏷️ **关键词:** midjourney,midjourney-api
 
+#### 📦 [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)
+
+[![GitHub stars](https://img.shields.io/github/stars/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/stargazers) [![Top Language](https://img.shields.io/github/languages/top/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy) [![Last Commit](https://img.shields.io/github/last-commit/Dooy/chatgpt-web-midjourney-proxy?style=flat-square)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/commits)
+
+> 该项目通过整合ChatGPT和Midjourney代理接口，结合多模态生成技术，实现了一个功能丰富、支持多平台部署的开源AI多模态交互应用，极大提升了用户体验和应用场景的多样性。
+
+🔧 **技术栈:** TypeScript, React
+
+🏷️ **关键词:** chatgpt-ui,claude-3,flux,gpts,gpts-ui,gptstore,ideogram,kling,luma,midjourney,midjourney-ui,pika,realtime,runway,suno,udio,viggle,vision,whisper-ui
+
 #### 📦 [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
 
 [![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=flat-square)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers) [![Top Language](https://img.shields.io/github/languages/top/RVC-Boss/GPT-SoVITS?style=flat-square)](https://github.com/RVC-Boss/GPT-SoVITS) [![Last Commit](https://img.shields.io/github/last-commit/RVC-Boss/GPT-SoVITS?style=flat-square)](https://github.com/RVC-Boss/GPT-SoVITS/commits)
@@ -259,16 +269,6 @@
 🔧 **技术栈:** Python
 
 🏷️ **关键词:** text-to-speech,tts,vits,voice-clone,voice-cloneai,voice-cloning
-
-#### 📦 [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot)
-
-[![GitHub stars](https://img.shields.io/github/stars/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot/stargazers) [![Top Language](https://img.shields.io/github/languages/top/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot) [![Last Commit](https://img.shields.io/github/last-commit/RockChinQ/LangBot?style=flat-square)](https://github.com/RockChinQ/LangBot/commits)
-
-> LangBot是一个多平台、多模型适配的即时通信机器人平台，支持丰富的插件生态和高稳定性，方便用户快速部署和管理基于大语言模型的聊天机器人。
-
-🔧 **技术栈:** Python
-
-🏷️ **关键词:** agent,chatgpt,deepseeek,dify,llm,openai,plugins,qq,telegram,wechat
 
 #### 📦 [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio)
 
@@ -366,7 +366,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=flat-square)](https://github.com/rockbenben/ChatGPT-Shortcut/stargazers) [![Top Language](https://img.shields.io/github/languages/top/rockbenben/ChatGPT-Shortcut?style=flat-square)](https://github.com/rockbenben/ChatGPT-Shortcut) [![Last Commit](https://img.shields.io/github/last-commit/rockbenben/ChatGPT-Shortcut?style=flat-square)](https://github.com/rockbenben/ChatGPT-Shortcut/commits)
 
-> 该项目通过浏览器扩展和网页端提供优化的ChatGPT提示词管理、分享及社区投票功能，是提升AI交互效率的实用辅助工具。
+> 该项目通过集成多语言提示词库和便捷的浏览器扩展，极大提升了用户与ChatGPT等AI模型交互的效率和体验，是实用的AI提示词管理与共享工具。
 
 🔧 **技术栈:** JavaScript, TypeScript
 
@@ -444,21 +444,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/pollinations/pollinations?style=flat-square)](https://github.com/pollinations/pollinations/stargazers) [![Top Language](https://img.shields.io/github/languages/top/pollinations/pollinations?style=flat-square)](https://github.com/pollinations/pollinations) [![Last Commit](https://img.shields.io/github/last-commit/pollinations/pollinations?style=flat-square)](https://github.com/pollinations/pollinations/commits)
 
-> Pollinations是一个面向开发者和社区的开放源代码生成式AI平台，集成多模态生成能力（图像、文本、音频），支持无缝API调用和多种客户端集成，推动AI内容创作的普及与开放。
+> Pollinations.AI是一个集成多模态生成能力的开源生成式AI平台，支持文本、图像及音频生成，强调隐私保护和易用性，广泛应用于多种AI应用和社区。
 
 🔧 **技术栈:** Python, JavaScript
 
 🏷️ **关键词:** colaboratory,colaboratory-notebook,diffusion,gan,generative,ipfs,javascript,machinelearning,nodejs,python
-
-#### 📦 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
-[![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) [![Top Language](https://img.shields.io/github/languages/top/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) [![Last Commit](https://img.shields.io/github/last-commit/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commits)
-
-> 该项目通过集成Stable Diffusion模型和丰富的图像生成及编辑功能，提供了一个功能强大且用户友好的开源生成式AI图像创作平台。
-
-🔧 **技术栈:** Python, Gradio
-
-🏷️ **关键词:** ai,ai-art,deep-learning,diffusion,gradio,image-generation,image2image,img2img,pytorch,stable-diffusion,text2image,torch,txt2img,unstable,upscaling,web
 
 #### 📦 [openai/openai-dotnet](https://github.com/openai/openai-dotnet)
 
@@ -480,17 +470,17 @@
 
 
 
+#### 📦 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+[![GitHub stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) [![Top Language](https://img.shields.io/github/languages/top/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) [![Last Commit](https://img.shields.io/github/last-commit/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commits)
+
+> 该项目通过集成Stable Diffusion模型和丰富的图像生成及编辑功能，提供了一个功能强大且用户友好的开源生成式AI图像创作平台。
+
+🔧 **技术栈:** Python, Gradio
+
+🏷️ **关键词:** ai,ai-art,deep-learning,diffusion,gradio,image-generation,image2image,img2img,pytorch,stable-diffusion,text2image,torch,txt2img,unstable,upscaling,web
+
 ### ◦ 自然语言处理
-
-#### 📦 [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)
-
-[![GitHub stars](https://img.shields.io/github/stars/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle/stargazers) [![Top Language](https://img.shields.io/github/languages/top/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle) [![Last Commit](https://img.shields.io/github/last-commit/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle/commits)
-
-> 该仓库作为一个开源的中文短句语料库，支持自然语言处理应用中的文本生成和调用，具有良好的数据授权和维护机制。
-
-🔧 **技术栈:** Go
-
-
 
 #### 📦 [hankcs/HanLP](https://github.com/hankcs/HanLP)
 
@@ -501,6 +491,16 @@
 🔧 **技术栈:** Python, Java, Go
 
 🏷️ **关键词:** dependency-parser,hanlp,named-entity-recognition,natural-language-processing,nlp,pos-tagging,semantic-parsing,text-classification
+
+#### 📦 [hitokoto-osc/sentences-bundle](https://github.com/hitokoto-osc/sentences-bundle)
+
+[![GitHub stars](https://img.shields.io/github/stars/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle/stargazers) [![Top Language](https://img.shields.io/github/languages/top/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle) [![Last Commit](https://img.shields.io/github/last-commit/hitokoto-osc/sentences-bundle?style=flat-square)](https://github.com/hitokoto-osc/sentences-bundle/commits)
+
+> 该仓库作为一个开源的中文短句语料库，支持自然语言处理应用中的文本生成和调用，具有良好的数据授权和维护机制。
+
+🔧 **技术栈:** Go
+
+
 
 #### 📦 [XB-Paul/BHAddressParser](https://github.com/XB-Paul/BHAddressParser)
 
@@ -528,7 +528,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) [![Top Language](https://img.shields.io/github/languages/top/PaddlePaddle/PaddleOCR?style=flat-square)](https://github.com/PaddlePaddle/PaddleOCR) [![Last Commit](https://img.shields.io/github/last-commit/PaddlePaddle/PaddleOCR?style=flat-square)](https://github.com/PaddlePaddle/PaddleOCR/commits)
 
-> PaddleOCR是一个产业级、功能丰富且高性能的OCR开源框架，集成多种前沿算法和模型，支持多场景多语言文本识别及复杂文档结构解析，助力开发者实现端到端OCR解决方案。
+> PaddleOCR是一个产业级、多功能的OCR开源框架，集成多种前沿文本检测和识别算法，支持多语言、多场景的高效文本信息抽取与应用部署。
 
 🔧 **技术栈:** Python
 
@@ -596,7 +596,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich/stargazers) [![Top Language](https://img.shields.io/github/languages/top/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich) [![Last Commit](https://img.shields.io/github/last-commit/immich-app/immich?style=flat-square)](https://github.com/immich-app/immich/commits)
 
-> Immich通过现代全栈技术栈提供了一个功能丰富且高效的自托管照片视频管理平台，满足个人及团队对隐私和数据控制的需求。
+> Immich通过现代全栈技术栈提供安全高效的自托管照片视频管理与备份服务，满足个人和团队的多样化数字资产管理需求。
 
 🔧 **技术栈:** Node.js (NestJS), Flutter, Svelte, TypeScript, JavaScript
 
@@ -606,7 +606,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/tgnav/tgnav.github.io?style=flat-square)](https://github.com/tgnav/tgnav.github.io/stargazers) [![Top Language](https://img.shields.io/github/languages/top/tgnav/tgnav.github.io?style=flat-square)](https://github.com/tgnav/tgnav.github.io) [![Last Commit](https://img.shields.io/github/last-commit/tgnav/tgnav.github.io?style=flat-square)](https://github.com/tgnav/tgnav.github.io/commits)
 
-> 该项目通过网站形式整合和分类Telegram频道、群组及机器人资源，提供便捷的导航和发现服务，提升Telegram用户的内容获取效率和体验。
+> 该项目通过网站形式整合和分类Telegram生态中的频道、群组及机器人资源，方便用户发现和访问优质内容，提升Telegram社区的内容管理和导航效率。
 
 🔧 **技术栈:** JavaScript, HTML/CSS
 
@@ -616,7 +616,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=flat-square)](https://github.com/usememos/memos/stargazers) [![Top Language](https://img.shields.io/github/languages/top/usememos/memos?style=flat-square)](https://github.com/usememos/memos) [![Last Commit](https://img.shields.io/github/last-commit/usememos/memos?style=flat-square)](https://github.com/usememos/memos/commits)
 
-> Memos通过Go和React构建，提供安全自托管的笔记管理服务，兼具轻量、高性能和高度可定制性，适合个人和团队内容管理。
+> Memos通过Go和React构建，提供安全私有的自托管笔记服务，支持Markdown，兼具轻量与强大，适合个人及团队内容管理。
 
 🔧 **技术栈:** Go, React
 
@@ -678,27 +678,17 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=flat-square)](https://github.com/opf/openproject/stargazers) [![Top Language](https://img.shields.io/github/languages/top/opf/openproject?style=flat-square)](https://github.com/opf/openproject) [![Last Commit](https://img.shields.io/github/last-commit/opf/openproject?style=flat-square)](https://github.com/opf/openproject/commits)
 
-> OpenProject通过结合Ruby后端和Angular前端技术，提供全面的项目管理和团队协作解决方案，适用于敏捷和传统项目管理，具备高度活跃的社区和丰富的集成功能。
+> OpenProject通过集成丰富的项目管理和协作功能，结合Ruby后端和Angular前端技术，为团队提供高效的开源项目管理解决方案。
 
 🔧 **技术栈:** Ruby, Angular
 
 🏷️ **关键词:** angular,bcf,boards,bug-tracker,gantt,gantt-chart,ifc,issue-tracker,kanban,openproject,project-management,project-planning,roadmap,ruby,scrum,timeline,workflows
 
-#### 📦 [dream-num/univer](https://github.com/dream-num/univer)
-
-[![GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer/stargazers) [![Top Language](https://img.shields.io/github/languages/top/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer) [![Last Commit](https://img.shields.io/github/last-commit/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer/commits)
-
-> Univer通过统一的API实现跨平台的电子表格、文档和演示文稿编辑，支持协作、多语言和插件扩展，提供高效的渲染和公式计算引擎，适合嵌入企业级办公应用。
-
-🔧 **技术栈:** TypeScript, JavaScript
-
-🏷️ **关键词:** appscript,collaboration,data-table,doc,document,excel,grid,live-share,office,powerpoint,ppt,productivity,sdk,sheet,slide,spreadsheet,word,xlsx
-
 #### 📦 [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer)
 
 [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/Docker-DocumentServer?style=flat-square)](https://github.com/ONLYOFFICE/Docker-DocumentServer/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ONLYOFFICE/Docker-DocumentServer?style=flat-square)](https://github.com/ONLYOFFICE/Docker-DocumentServer) [![Last Commit](https://img.shields.io/github/last-commit/ONLYOFFICE/Docker-DocumentServer?style=flat-square)](https://github.com/ONLYOFFICE/Docker-DocumentServer/commits)
 
-> 该仓库提供了ONLYOFFICE文档服务器的Docker镜像，支持多格式在线编辑与实时协作，方便集成到企业协作平台和第三方同步分享解决方案中，提升办公自动化效率。
+> 该仓库提供基于Docker的ONLYOFFICE文档服务器容器镜像，实现高兼容性的在线办公文档编辑与协作，便于集成进企业协作平台和第三方同步解决方案。
 
 🔧 **技术栈:** JavaScript, Docker
 
@@ -713,6 +703,16 @@
 🔧 **技术栈:** JavaScript (Node.js), HTML/CSS
 
 🏷️ **关键词:** collaboration,collaborative,collaborative-editing,collaborative-framework,collaborative-research,collaborative-writing,document,documents,docx,etherpad,libreoffice,microsoft,pdf,pdf-generation,rich-text-editor,video-conference,video-conferencing,web-editor,word
+
+#### 📦 [dream-num/univer](https://github.com/dream-num/univer)
+
+[![GitHub stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer/stargazers) [![Top Language](https://img.shields.io/github/languages/top/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer) [![Last Commit](https://img.shields.io/github/last-commit/dream-num/univer?style=flat-square)](https://github.com/dream-num/univer/commits)
+
+> Univer通过统一的API实现跨平台的电子表格、文档和演示文稿编辑，支持协作、多语言和插件扩展，提供高效的渲染和公式计算引擎，适合嵌入企业级办公应用。
+
+🔧 **技术栈:** TypeScript, JavaScript
+
+🏷️ **关键词:** appscript,collaboration,data-table,doc,document,excel,grid,live-share,office,powerpoint,ppt,productivity,sdk,sheet,slide,spreadsheet,word,xlsx
 
 #### 📦 [ibisheng/onlyoffice-ibisheng](https://github.com/ibisheng/onlyoffice-ibisheng)
 
@@ -928,7 +928,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=flat-square)](https://github.com/vuetifyjs/vuetify/stargazers) [![Top Language](https://img.shields.io/github/languages/top/vuetifyjs/vuetify?style=flat-square)](https://github.com/vuetifyjs/vuetify) [![Last Commit](https://img.shields.io/github/last-commit/vuetifyjs/vuetify?style=flat-square)](https://github.com/vuetifyjs/vuetify/commits)
 
-> Vuetify通过提供全面的Material Design风格Vue组件和强大的主题定制能力，极大简化了前端界面开发流程，提升开发效率和用户体验。
+> Vuetify通过提供符合Material Design规范的Vue组件库，实现了无设计技能门槛的高效前端开发，支持响应式布局、主题定制和国际化，极大提升了Vue应用的开发效率和用户体验。
 
 🔧 **技术栈:** TypeScript, Vue.js
 
@@ -993,16 +993,6 @@
 🔧 **技术栈:** TypeScript, Vue 3
 
 🏷️ **关键词:** admin,admin-dashboard,admin-template,element-plus,typescript,vite,vue,vue-admin,vue-next,vue3,vuex
-
-#### 📦 [aduskin/AduSkin](https://github.com/aduskin/AduSkin)
-
-[![GitHub stars](https://img.shields.io/github/stars/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin/stargazers) [![Top Language](https://img.shields.io/github/languages/top/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin) [![Last Commit](https://img.shields.io/github/last-commit/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin/commits)
-
-> AduSkin通过整合多种开源技术，提供了一个高质量、易用且可扩展的WPF界面控件库，极大提升了.NET桌面应用的界面美观度和开发效率。
-
-🔧 **技术栈:** C#, WPF
-
-
 
 #### 📦 [Panuon/Panuon.WPF.UI](https://github.com/Panuon/Panuon.WPF.UI)
 
@@ -1165,6 +1155,18 @@
 🔧 **技术栈:** JavaScript
 
 
+
+### ◦ Web组件库
+
+#### 📦 [wanglin2/mind-map](https://github.com/wanglin2/mind-map)
+
+[![GitHub stars](https://img.shields.io/github/stars/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map/stargazers) [![Top Language](https://img.shields.io/github/languages/top/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map) [![Last Commit](https://img.shields.io/github/last-commit/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map/commits)
+
+> 该项目通过纯JavaScript实现高可定制的思维导图功能，结合Vue和ElementUI打造完整的Web及跨平台客户端应用，满足多场景思维导图需求。
+
+🔧 **技术栈:** JavaScript, Vue.js
+
+🏷️ **关键词:** graph,jsmind,mind-map,mind-mapping,mindmap,mindmapping,svg,xmind
 
 ### ◦ 主页模板
 
@@ -1452,7 +1454,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/unjs/unhead?style=flat-square)](https://github.com/unjs/unhead/stargazers) [![Top Language](https://img.shields.io/github/languages/top/unjs/unhead?style=flat-square)](https://github.com/unjs/unhead) [![Last Commit](https://img.shields.io/github/last-commit/unjs/unhead?style=flat-square)](https://github.com/unjs/unhead/commits)
 
-> Unhead是一个轻量且高性能的跨框架文档头管理工具，支持Vue、React、Angular、Solid.js和Svelte，优化SEO和SSR性能，广泛应用于现代前端框架生态中。
+> unhead是一个轻量且高性能的跨框架文档头管理工具，支持Vue、React、Angular等，专注于提升SEO和服务端渲染性能。
 
 🔧 **技术栈:** TypeScript, JavaScript
 
@@ -1506,23 +1508,63 @@
 
 ### ◦ 组件库
 
-#### 📦 [wanglin2/mind-map](https://github.com/wanglin2/mind-map)
+#### 📦 [aduskin/AduSkin](https://github.com/aduskin/AduSkin)
 
-[![GitHub stars](https://img.shields.io/github/stars/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map/stargazers) [![Top Language](https://img.shields.io/github/languages/top/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map) [![Last Commit](https://img.shields.io/github/last-commit/wanglin2/mind-map?style=flat-square)](https://github.com/wanglin2/mind-map/commits)
+[![GitHub stars](https://img.shields.io/github/stars/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin/stargazers) [![Top Language](https://img.shields.io/github/languages/top/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin) [![Last Commit](https://img.shields.io/github/last-commit/aduskin/AduSkin?style=flat-square)](https://github.com/aduskin/AduSkin/commits)
 
-> 该项目通过插件化架构提供高度可定制的Web思维导图解决方案，支持多种导图类型、丰富节点功能及协同编辑，满足多场景思维导图需求，具备较高的社区活跃度和实用价值。
+> AduSkin是一个高质量的WPF UI控件库，提供丰富美观的界面组件，支持.NET Framework和.NET Core，方便开发者快速构建现代桌面应用界面。
+
+🔧 **技术栈:** C#
+
+
+
+#### 📦 [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)
+
+[![GitHub stars](https://img.shields.io/github/stars/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid) [![Last Commit](https://img.shields.io/github/last-commit/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid/commits)
+
+> AG Grid是一款领先的企业级JavaScript数据网格组件，提供丰富的表格功能和多框架支持，具备卓越性能和高度可扩展性，广泛应用于复杂数据展示和交互场景。
+
+🔧 **技术栈:** JavaScript, React, Angular, Vue
+
+🏷️ **关键词:** angular,angular-grid,angular-table,charting,datagrid,datatable,excel,filtering,grid,grouping,javascript-table,pagination,pivoting,react,react-grid,react-table,sorting,table,vue-table,vuejs
+
+#### 📦 [x-extends/vxe-table](https://github.com/x-extends/vxe-table)
+
+[![GitHub stars](https://img.shields.io/github/stars/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table/stargazers) [![Top Language](https://img.shields.io/github/languages/top/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table) [![Last Commit](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table/commits)
+
+> vxe-table 是一个面向现代浏览器，支持虚拟渲染和复杂表格操作的 Vue 表格组件库，提供高效、灵活且功能丰富的表格解决方案。
 
 🔧 **技术栈:** JavaScript, Vue.js
 
-🏷️ **关键词:** graph,jsmind,mind-map,mind-mapping,mindmap,mindmapping,svg,xmind
+🏷️ **关键词:** cell,checkbox,editable,form,grid,input,modal,pager,radio,select,switch,table,toolbar,vue,vue-table,vxe-grid,vxe-table,vxe-ui
+
+#### 📦 [ant-design/ant-design](https://github.com/ant-design/ant-design)
+
+[![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design) [![Last Commit](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design/commits)
+
+> Ant Design是一个成熟且广泛使用的企业级React UI组件库，采用TypeScript开发，具备丰富的设计规范、国际化支持和灵活的主题定制能力，极大提升Web应用开发效率和用户体验。
+
+🔧 **技术栈:** TypeScript, React
+
+🏷️ **关键词:** ant-design,antd,design-systems,react,typescript,ui-kit,ui-library
+
+#### 📦 [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)
+
+[![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor) [![Last Commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor/commits)
+
+> Ant Design Blazor是一个高质量的企业级Blazor UI组件库，融合Ant Design设计规范，支持多种.NET环境和现代Web技术，提升Blazor应用的开发效率和用户体验。
+
+🔧 **技术栈:** C#, Blazor
+
+🏷️ **关键词:** ant-design,ant-design-blazor,antd,blazor,blazor-components,blazor-server,blazor-webassembly,dotnet,hacktoberfest,wasm,webassembly
 
 #### 📦 [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2)
 
 [![GitHub stars](https://img.shields.io/github/stars/sweetalert2/sweetalert2?style=flat-square)](https://github.com/sweetalert2/sweetalert2/stargazers) [![Top Language](https://img.shields.io/github/languages/top/sweetalert2/sweetalert2?style=flat-square)](https://github.com/sweetalert2/sweetalert2) [![Last Commit](https://img.shields.io/github/last-commit/sweetalert2/sweetalert2?style=flat-square)](https://github.com/sweetalert2/sweetalert2/commits)
 
-> SweetAlert2是一个流行且活跃的前端弹窗组件库，提供丰富的定制选项和无障碍支持，广泛应用于现代Web应用中替代原生弹窗。
+> SweetAlert2是一个广受欢迎的前端弹窗组件库，提供丰富的自定义选项和无障碍支持，适用于多种前端框架，极大提升用户交互体验。
 
-🔧 **技术栈:** JavaScript, CSS
+🔧 **技术栈:** JavaScript, TypeScript
 
 🏷️ **关键词:** accessible,alert,angular,confirm,confirmation-dialog,dialog,modal,notifications,popup,prompt,react,sweetalert,sweetalert2,toast,vue,wai-aria
 
@@ -1596,16 +1638,6 @@
 
 🏷️ **关键词:** color-picker,control,csharp,flipclock,gif,propertygrid,relativepanel,wpf,wpf-controls,wpf-ui,xaml
 
-#### 📦 [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)
-
-[![GitHub stars](https://img.shields.io/github/stars/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid) [![Last Commit](https://img.shields.io/github/last-commit/ag-grid/ag-grid?style=flat-square)](https://github.com/ag-grid/ag-grid/commits)
-
-> AG Grid是一款高度可定制且无第三方依赖的企业级JavaScript数据网格组件，提供丰富的功能如排序、过滤、分页及高级企业特性，支持多种前端框架，广泛应用于复杂数据密集型前端项目。
-
-🔧 **技术栈:** JavaScript, React, Angular, Vue
-
-🏷️ **关键词:** angular,angular-grid,angular-table,charting,datagrid,datatable,excel,filtering,grid,grouping,javascript-table,pagination,pivoting,react,react-grid,react-table,sorting,table,vue-table,vuejs
-
 #### 📦 [sheinsight/shineout](https://github.com/sheinsight/shineout)
 
 [![GitHub stars](https://img.shields.io/github/stars/sheinsight/shineout?style=flat-square)](https://github.com/sheinsight/shineout/stargazers) [![Top Language](https://img.shields.io/github/languages/top/sheinsight/shineout?style=flat-square)](https://github.com/sheinsight/shineout) [![Last Commit](https://img.shields.io/github/last-commit/sheinsight/shineout?style=flat-square)](https://github.com/sheinsight/shineout/commits)
@@ -1666,26 +1698,6 @@
 
 🏷️ **关键词:** avatar,avatar-generator,react,reactjs
 
-#### 📦 [x-extends/vxe-table](https://github.com/x-extends/vxe-table)
-
-[![GitHub stars](https://img.shields.io/github/stars/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table/stargazers) [![Top Language](https://img.shields.io/github/languages/top/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table) [![Last Commit](https://img.shields.io/github/last-commit/x-extends/vxe-table?style=flat-square)](https://github.com/x-extends/vxe-table/commits)
-
-> vxe-table 提供现代浏览器环境下高效、灵活的表格解决方案，通过虚拟渲染和丰富功能满足复杂数据展示与操作需求，是 Vue 生态中领先的表格组件库。
-
-🔧 **技术栈:** JavaScript, Vue
-
-🏷️ **关键词:** cell,checkbox,editable,form,grid,input,modal,pager,radio,select,switch,table,toolbar,vue,vue-table,vxe-grid,vxe-table,vxe-ui
-
-#### 📦 [ant-design/ant-design](https://github.com/ant-design/ant-design)
-
-[![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design) [![Last Commit](https://img.shields.io/github/last-commit/ant-design/ant-design?style=flat-square)](https://github.com/ant-design/ant-design/commits)
-
-> Ant Design是基于React和TypeScript构建的企业级UI组件库，支持国际化和主题定制，广泛应用于现代Web应用开发中。
-
-🔧 **技术栈:** TypeScript, React
-
-🏷️ **关键词:** ant-design,antd,design-systems,react,typescript,ui-kit,ui-library
-
 #### 📦 [jin-yufeng/mp-html](https://github.com/jin-yufeng/mp-html)
 
 [![GitHub stars](https://img.shields.io/github/stars/jin-yufeng/mp-html?style=flat-square)](https://github.com/jin-yufeng/mp-html/stargazers) [![Top Language](https://img.shields.io/github/languages/top/jin-yufeng/mp-html?style=flat-square)](https://github.com/jin-yufeng/mp-html) [![Last Commit](https://img.shields.io/github/last-commit/jin-yufeng/mp-html?style=flat-square)](https://github.com/jin-yufeng/mp-html/commits)
@@ -1705,16 +1717,6 @@
 🔧 **技术栈:** TypeScript, Vue
 
 🏷️ **关键词:** components,mobile,ui-kit,ui-library,vant,vue,vue3
-
-#### 📦 [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)
-
-[![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor) [![Last Commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square)](https://github.com/ant-design-blazor/ant-design-blazor/commits)
-
-> Ant Design Blazor是一个高质量的企业级Blazor UI组件库，结合Ant Design设计体系，支持多种Blazor运行模式和跨平台部署，极大提升.NET开发者构建现代Web应用的效率和体验。
-
-🔧 **技术栈:** C#, Blazor
-
-🏷️ **关键词:** ant-design,ant-design-blazor,antd,blazor,blazor-components,blazor-server,blazor-webassembly,dotnet,hacktoberfest,wasm,webassembly
 
 #### 📦 [view-design/ViewUI](https://github.com/view-design/ViewUI)
 
@@ -2062,11 +2064,21 @@
 
 ### ◦ API框架
 
+#### 📦 [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api)
+
+[![GitHub stars](https://img.shields.io/github/stars/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api/stargazers) [![Top Language](https://img.shields.io/github/languages/top/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api) [![Last Commit](https://img.shields.io/github/last-commit/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api/commits)
+
+> 该项目是一个基于Node.js的高性能、一言API后端框架，具备良好的扩展性和多进程支持，适合构建可维护的API服务。
+
+🔧 **技术栈:** Node.js
+
+
+
 #### 📦 [monksoul/Furion](https://github.com/monksoul/Furion)
 
 [![GitHub stars](https://img.shields.io/github/stars/monksoul/Furion?style=flat-square)](https://github.com/monksoul/Furion/stargazers) [![Top Language](https://img.shields.io/github/languages/top/monksoul/Furion?style=flat-square)](https://github.com/monksoul/Furion) [![Last Commit](https://img.shields.io/github/last-commit/monksoul/Furion?style=flat-square)](https://github.com/monksoul/Furion/commits)
 
-> Furion通过提供动态API控制器和丰富的框架特性，提升.NET应用开发效率和灵活性，是一个高效的后端开发框架。
+> Furion作为一个高效灵活的.NET应用框架，提供了动态API控制器等功能，极大提升了后端开发的便捷性和扩展性。
 
 🔧 **技术栈:** C#
 
@@ -2111,16 +2123,6 @@
 🔧 **技术栈:** C#
 
 🏷️ **关键词:** async-webdav-client,nuget,webdavclient
-
-#### 📦 [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api)
-
-[![GitHub stars](https://img.shields.io/github/stars/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api/stargazers) [![Top Language](https://img.shields.io/github/languages/top/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api) [![Last Commit](https://img.shields.io/github/last-commit/hitokoto-osc/hitokoto-api?style=flat-square)](https://github.com/hitokoto-osc/hitokoto-api/commits)
-
-> 该项目是一个基于Node.js的高性能、一言API后端框架，具备良好的扩展性和维护性，支持多进程、遥测及多种数据编码，适合构建可扩展的API服务。
-
-🔧 **技术栈:** Node.js
-
-
 
 #### 📦 [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
@@ -2358,7 +2360,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square)](https://github.com/abpframework/abp/stargazers) [![Top Language](https://img.shields.io/github/languages/top/abpframework/abp?style=flat-square)](https://github.com/abpframework/abp) [![Last Commit](https://img.shields.io/github/last-commit/abpframework/abp?style=flat-square)](https://github.com/abpframework/abp/commits)
 
-> ABP框架通过提供完善的架构模型、丰富的基础设施和模块化设计，极大简化了基于.NET的企业级应用开发，提升开发效率和代码质量。
+> ABP框架通过提供领域驱动设计、模块化、多租户支持及丰富的基础设施组件，极大地简化了基于.NET的企业级应用开发，提升开发效率和代码质量。
 
 🔧 **技术栈:** C#, Angular, Blazor
 
@@ -2370,13 +2372,23 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core?style=flat-square)](https://github.com/elsa-workflows/elsa-core/stargazers) [![Top Language](https://img.shields.io/github/languages/top/elsa-workflows/elsa-core?style=flat-square)](https://github.com/elsa-workflows/elsa-core) [![Last Commit](https://img.shields.io/github/last-commit/elsa-workflows/elsa-core?style=flat-square)](https://github.com/elsa-workflows/elsa-core/commits)
 
-> Elsa Core是一个功能丰富且灵活的.NET工作流引擎，提供可编程和可视化工作流设计，支持多语言表达式和多种持久化方案，助力企业实现复杂业务流程自动化。
+> Elsa Core是一个功能丰富且灵活的.NET工作流引擎，提供代码与可视化混合开发支持，内置多种活动和持久化方案，助力企业实现复杂业务流程自动化。
 
 🔧 **技术栈:** C#, Blazor
 
 🏷️ **关键词:** csharp,dotnet,elsa,workflows
 
 ### ◦ 微服务框架
+
+#### 📦 [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
+
+[![GitHub stars](https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero/stargazers) [![Top Language](https://img.shields.io/github/languages/top/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero) [![Last Commit](https://img.shields.io/github/last-commit/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero/commits)
+
+> go-zero通过内置的容错设计、链式超时控制和自动参数校验等机制，提供高可用、高并发的微服务解决方案，极大简化了微服务开发和运维复杂度。
+
+🔧 **技术栈:** Go
+
+🏷️ **关键词:** cloud-native,code-generation,framework,gateway,go,go-zero,goctl,golang,gozero,grpc-gateway,microservice,microservice-framework,microservices,microservices-architecture,rest-api,restful,restful-api,rpc,rpc-framework,web-framework
 
 #### 📦 [masastack/MASA.Framework](https://github.com/masastack/MASA.Framework)
 
@@ -2387,16 +2399,6 @@
 🔧 **技术栈:** C#
 
 🏷️ **关键词:** csharp,dapr,eventbus,framework,microservices,netcore
-
-#### 📦 [zeromicro/go-zero](https://github.com/zeromicro/go-zero)
-
-[![GitHub stars](https://img.shields.io/github/stars/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero/stargazers) [![Top Language](https://img.shields.io/github/languages/top/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero) [![Last Commit](https://img.shields.io/github/last-commit/zeromicro/go-zero?style=flat-square)](https://github.com/zeromicro/go-zero/commits)
-
-> go-zero通过内置的容错设计、服务治理和代码生成工具，实现了高性能、高可用且易扩展的Go微服务框架，适合构建大规模分布式系统。
-
-🔧 **技术栈:** Go
-
-🏷️ **关键词:** cloud-native,code-generation,framework,gateway,go,go-zero,goctl,golang,gozero,grpc-gateway,microservice,microservice-framework,microservices,microservices-architecture,rest-api,restful,restful-api,rpc,rpc-framework,web-framework
 
 ### ◦ 支付服务
 
@@ -2474,16 +2476,6 @@
 
 ### ◦ 框架
 
-#### 📦 [NeuCharFramework/NCF](https://github.com/NeuCharFramework/NCF)
-
-[![GitHub stars](https://img.shields.io/github/stars/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF/stargazers) [![Top Language](https://img.shields.io/github/languages/top/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF) [![Last Commit](https://img.shields.io/github/last-commit/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF/commits)
-
-> NeuCharFramework是一套成熟稳定的.NET后端基础框架，融合多数据库支持和模块化设计，助力开发者快速构建可扩展的企业级应用系统。
-
-🔧 **技术栈:** C#
-
-🏷️ **关键词:** ddd,dll-nuget,framework,multi-database,ncf,ncf-nuget,system
-
 #### 📦 [geektutu/7days-golang](https://github.com/geektutu/7days-golang)
 
 [![GitHub stars](https://img.shields.io/github/stars/geektutu/7days-golang?style=flat-square)](https://github.com/geektutu/7days-golang/stargazers) [![Top Language](https://img.shields.io/github/languages/top/geektutu/7days-golang?style=flat-square)](https://github.com/geektutu/7days-golang) [![Last Commit](https://img.shields.io/github/last-commit/geektutu/7days-golang?style=flat-square)](https://github.com/geektutu/7days-golang/commits)
@@ -2493,6 +2485,16 @@
 🔧 **技术栈:** Go
 
 🏷️ **关键词:** golang,learning,scratch,starter-project
+
+#### 📦 [NeuCharFramework/NCF](https://github.com/NeuCharFramework/NCF)
+
+[![GitHub stars](https://img.shields.io/github/stars/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF/stargazers) [![Top Language](https://img.shields.io/github/languages/top/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF) [![Last Commit](https://img.shields.io/github/last-commit/NeuCharFramework/NCF?style=flat-square)](https://github.com/NeuCharFramework/NCF/commits)
+
+> NeuCharFramework是一套成熟稳定的.NET后端基础框架，融合多数据库支持和模块化设计，助力开发者快速构建可扩展的企业级应用系统。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** ddd,dll-nuget,framework,multi-database,ncf,ncf-nuget,system
 
 #### 📦 [SenparcCoreFramework/SCF](https://github.com/SenparcCoreFramework/SCF)
 
@@ -2571,6 +2573,18 @@
 🏷️ **关键词:** wechat
 
 ## • 基础设施
+
+### ◦ 代理工具
+
+#### 📦 [2dust/v2rayN](https://github.com/2dust/v2rayN)
+
+[![GitHub stars](https://img.shields.io/github/stars/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN/stargazers) [![Top Language](https://img.shields.io/github/languages/top/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN) [![Last Commit](https://img.shields.io/github/last-commit/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN/commits)
+
+> v2rayN是一个高星级、多平台的代理客户端，集成多种代理协议和核心，方便用户配置和管理网络代理，提升网络访问的灵活性和安全性。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** proxy,shadowsocks,socks5,trojan,v2fly,v2ray,vless,vmess,windows,xray,xtls
 
 ### ◦ 代理服务器
 
@@ -2664,9 +2678,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yonggekkk/Cloudflare_vless_trojan?style=flat-square)](https://github.com/yonggekkk/Cloudflare_vless_trojan/stargazers) [![Top Language](https://img.shields.io/github/languages/top/yonggekkk/Cloudflare_vless_trojan?style=flat-square)](https://github.com/yonggekkk/Cloudflare_vless_trojan) [![Last Commit](https://img.shields.io/github/last-commit/yonggekkk/Cloudflare_vless_trojan?style=flat-square)](https://github.com/yonggekkk/Cloudflare_vless_trojan/commits)
 
-> 该项目通过Cloudflare无服务器架构实现高效、免费且易用的Vless和Trojan代理节点部署，极大简化了代理服务搭建流程，适合新手及进阶用户使用。
+> 该项目通过Cloudflare无服务器平台提供便捷的Vless和Trojan代理节点搭建与管理方案，结合优选IP和反代IP技术，极大简化代理服务的部署和维护，适合新手及高级用户使用。
 
-🔧 **技术栈:** JavaScript, Bash
+🔧 **技术栈:** JavaScript, Shell
 
 🏷️ **关键词:** argo,cdn,clash-meta,cloudflare,cloudflare-pages,cloudflare-workers,hysteria2,reality,serv00,sing-box,trojan,vless,xray,ygkkk
 
@@ -2726,11 +2740,23 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/nezhahq/nezha?style=flat-square)](https://github.com/nezhahq/nezha/stargazers) [![Top Language](https://img.shields.io/github/languages/top/nezhahq/nezha?style=flat-square)](https://github.com/nezhahq/nezha) [![Last Commit](https://img.shields.io/github/last-commit/nezhahq/nezha?style=flat-square)](https://github.com/nezhahq/nezha/commits)
 
-> Nezha监控是一款高效轻量的自托管监控平台，集成多种监控功能和运维工具，适合中小型服务器和网站的状态监控与告警管理。
+> 哪吒监控通过轻量级设计和多协议支持，为用户提供高效的自托管服务器及网站监控解决方案，具备丰富告警和运维功能，适合中小型及个人运维场景。
 
-🔧 **技术栈:** Go, Vue.js
+🔧 **技术栈:** Go, Vue
 
 🏷️ **关键词:** monitoring,monitoring-tool,system
+
+### ◦ 网络与路由
+
+#### 📦 [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip)
+
+[![GitHub stars](https://img.shields.io/github/stars/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip/stargazers) [![Top Language](https://img.shields.io/github/languages/top/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip) [![Last Commit](https://img.shields.io/github/last-commit/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip/commits)
+
+> 该项目通过分析BGP路由数据，构建并维护中国主要运营商的IP地址库，支持网络路由优化和多出口策略，具备较高的实用价值和开源贡献度。
+
+🔧 **技术栈:** Rust, Shell
+
+🏷️ **关键词:** asn,bgp,china,daily,ip,ipv6,operator
 
 ### ◦ 网络代理
 
@@ -2750,23 +2776,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Loyalsoldier/v2ray-rules-dat?style=flat-square)](https://github.com/Loyalsoldier/v2ray-rules-dat/stargazers) [![Top Language](https://img.shields.io/github/languages/top/Loyalsoldier/v2ray-rules-dat?style=flat-square)](https://github.com/Loyalsoldier/v2ray-rules-dat) [![Last Commit](https://img.shields.io/github/last-commit/Loyalsoldier/v2ray-rules-dat?style=flat-square)](https://github.com/Loyalsoldier/v2ray-rules-dat/commits)
 
-> 该仓库通过自动化构建和丰富的规则集，提升V2Ray及相关代理软件的路由效率和灵活性，支持多种代理协议和复杂的网络环境下的流量管理。
+> 该仓库通过自动构建和维护高质量的GeoIP和域名规则数据，提升V2Ray及其衍生代理软件的路由精准度和使用体验，广泛支持多种代理核心及广告过滤，具有高活跃度和社区认可度。
 
 🔧 **技术栈:** JSON, YAML
 
 🏷️ **关键词:** adblock,adguard,anticensorship,chinalist,dnsmasq,easylist,geoip,geosite,gfw,gfwlist,hysteria,ipv4,ipv6,mihomo,proxy,routing,trojan,trojan-go,v2ray,xray
-
-### ◦ 网络数据与路由
-
-#### 📦 [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip)
-
-[![GitHub stars](https://img.shields.io/github/stars/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip/stargazers) [![Top Language](https://img.shields.io/github/languages/top/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip) [![Last Commit](https://img.shields.io/github/last-commit/gaoyifan/china-operator-ip?style=flat-square)](https://github.com/gaoyifan/china-operator-ip/commits)
-
-> 该项目通过分析BGP路由数据，构建并持续更新中国主要运营商的IP地址库，支持网络路由优化和多出口策略，具备较高的准确性和实用价值。
-
-🔧 **技术栈:** Rust, Shell
-
-🏷️ **关键词:** asn,bgp,china,daily,ip,ipv6,operator
 
 ### ◦ 网络服务
 
@@ -2774,7 +2788,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/ngosang/trackerslist?style=flat-square)](https://github.com/ngosang/trackerslist/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ngosang/trackerslist?style=flat-square)](https://github.com/ngosang/trackerslist) [![Last Commit](https://img.shields.io/github/last-commit/ngosang/trackerslist?style=flat-square)](https://github.com/ngosang/trackerslist/commits)
 
-> 该仓库通过自动维护和更新公共BitTorrent追踪器列表，提升P2P文件共享的连接效率和稳定性，是BitTorrent生态系统中的重要基础网络资源。
+> 该仓库通过自动维护和更新高质量的公共BitTorrent跟踪器列表，提升了P2P文件共享网络的连接效率和稳定性，具有广泛的社区影响力和实用价值。
 
 🔧 **技术栈:** 文本/配置文件
 
@@ -2783,16 +2797,6 @@
 ## • 多媒体处理
 
 ### ◦ 图像处理
-
-#### 📦 [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)
-
-[![GitHub stars](https://img.shields.io/github/stars/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp/stargazers) [![Top Language](https://img.shields.io/github/languages/top/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp) [![Last Commit](https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp/commits)
-
-> ImageSharp是一个基于.NET的高性能、可扩展的跨平台2D图像处理库，支持多种图像格式和丰富的图像操作，适用于设备、云和嵌入式场景。
-
-🔧 **技术栈:** C#
-
-🏷️ **关键词:** bmp,c-sharp,drawing,exif,gif,graphics,hacktoberfest,image-processing,jpeg,netcore,png,tiff,webp
 
 #### 📦 [charlesw/tesseract](https://github.com/charlesw/tesseract)
 
@@ -2894,6 +2898,16 @@
 
 🏷️ **关键词:** aspnet,bmp,c-sharp,gif,image-processor,jpeg,png,tiff,webp
 
+#### 📦 [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp)
+
+[![GitHub stars](https://img.shields.io/github/stars/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp/stargazers) [![Top Language](https://img.shields.io/github/languages/top/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp) [![Last Commit](https://img.shields.io/github/last-commit/SixLabors/ImageSharp?style=flat-square)](https://github.com/SixLabors/ImageSharp/commits)
+
+> ImageSharp是一个基于.NET的高性能、可扩展的跨平台2D图像处理库，支持多种图像格式和丰富的图像操作，适用于设备、云和嵌入式场景。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** bmp,c-sharp,drawing,exif,gif,graphics,hacktoberfest,image-processing,jpeg,netcore,png,tiff,webp
+
 #### 📦 [fengyuanchen/jquery-cropper](https://github.com/fengyuanchen/jquery-cropper)
 
 [![GitHub stars](https://img.shields.io/github/stars/fengyuanchen/jquery-cropper?style=flat-square)](https://github.com/fengyuanchen/jquery-cropper/stargazers) [![Top Language](https://img.shields.io/github/languages/top/fengyuanchen/jquery-cropper?style=flat-square)](https://github.com/fengyuanchen/jquery-cropper) [![Last Commit](https://img.shields.io/github/last-commit/fengyuanchen/jquery-cropper?style=flat-square)](https://github.com/fengyuanchen/jquery-cropper/commits)
@@ -2948,6 +2962,16 @@
 
 ### ◦ 媒体转码
 
+#### 📦 [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+
+[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg/stargazers) [![Top Language](https://img.shields.io/github/languages/top/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg) [![Last Commit](https://img.shields.io/github/last-commit/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg/commits)
+
+> FFmpeg通过丰富的多媒体库和命令行工具，提供了强大的音视频编解码、格式转换及流媒体处理能力，是多媒体领域的核心基础设施。
+
+🔧 **技术栈:** C
+
+🏷️ **关键词:** audio,c,ffmpeg,fft,hevc,hls,matroska,mp4,mpeg,multimedia,rtmp,rtsp,streaming,video,webm
+
 #### 📦 [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 
 [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=flat-square)](https://github.com/HandBrake/HandBrake/stargazers) [![Top Language](https://img.shields.io/github/languages/top/HandBrake/HandBrake?style=flat-square)](https://github.com/HandBrake/HandBrake) [![Last Commit](https://img.shields.io/github/last-commit/HandBrake/HandBrake?style=flat-square)](https://github.com/HandBrake/HandBrake/commits)
@@ -2957,16 +2981,6 @@
 🔧 **技术栈:** C++, Objective-C, C
 
 🏷️ **关键词:** gplv2,multi-platform,video-transcoding
-
-#### 📦 [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
-
-[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg/stargazers) [![Top Language](https://img.shields.io/github/languages/top/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg) [![Last Commit](https://img.shields.io/github/last-commit/FFmpeg/FFmpeg?style=flat-square)](https://github.com/FFmpeg/FFmpeg/commits)
-
-> FFmpeg作为业界领先的多媒体处理框架，提供丰富的音视频编解码库和命令行工具，广泛应用于媒体转码、流媒体传输和格式转换领域。
-
-🔧 **技术栈:** C
-
-🏷️ **关键词:** audio,c,ffmpeg,fft,hevc,hls,matroska,mp4,mpeg,multimedia,rtmp,rtsp,streaming,video,webm
 
 ### ◦ 字体处理与渲染
 
@@ -3098,9 +3112,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/2dust/v2rayNG?style=flat-square)](https://github.com/2dust/v2rayNG/stargazers) [![Top Language](https://img.shields.io/github/languages/top/2dust/v2rayNG?style=flat-square)](https://github.com/2dust/v2rayNG) [![Last Commit](https://img.shields.io/github/last-commit/2dust/v2rayNG?style=flat-square)](https://github.com/2dust/v2rayNG/commits)
 
-> v2rayNG是一个基于Android的高性能网络代理客户端，集成多种协议支持，提供灵活的网络访问和隐私保护解决方案。
+> v2rayNG是一个高活跃度的Android网络代理客户端，集成了多种协议支持，提供稳定的VPN和代理功能，满足用户隐私和网络访问需求。
 
-🔧 **技术栈:** Kotlin, Go
+🔧 **技术栈:** Kotlin, Golang
 
 🏷️ **关键词:** android,proxy,shadowsocks,socks5,trojan,v2fly,v2ray,vless,vmess,vpn,xray,xtls
 
@@ -3224,7 +3238,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/gfwlist/gfwlist?style=flat-square)](https://github.com/gfwlist/gfwlist/stargazers) [![Top Language](https://img.shields.io/github/languages/top/gfwlist/gfwlist?style=flat-square)](https://github.com/gfwlist/gfwlist) [![Last Commit](https://img.shields.io/github/last-commit/gfwlist/gfwlist?style=flat-square)](https://github.com/gfwlist/gfwlist/commits)
 
-> 该仓库提供了一个广泛使用的网络审查规避规则列表，是实现代理和翻墙工具核心的基础资源，具有重要的反审查价值。
+> GFWList通过维护和分发被防火长城屏蔽的网址列表，为网络审查规避工具提供核心规则支持，促进自由访问互联网。
 
 🔧 **技术栈:** 文本/配置文件
 
@@ -3262,9 +3276,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/stackblitz-labs/bolt.diy?style=flat-square)](https://github.com/stackblitz-labs/bolt.diy/stargazers) [![Top Language](https://img.shields.io/github/languages/top/stackblitz-labs/bolt.diy?style=flat-square)](https://github.com/stackblitz-labs/bolt.diy) [![Last Commit](https://img.shields.io/github/last-commit/stackblitz-labs/bolt.diy?style=flat-square)](https://github.com/stackblitz-labs/bolt.diy/commits)
 
-> bolt.diy 利用多模型支持和集成终端，实现了在浏览器中通过 AI 辅助进行全栈开发、代码版本管理和项目部署的创新开发工具，极大提升开发效率和灵活性。
+> bolt.diy 利用多模型支持和集成终端，实现了在浏览器中通过大语言模型辅助生成、编辑和部署全栈应用的创新开发体验。
 
-🔧 **技术栈:** Node.js, TypeScript
+🔧 **技术栈:** TypeScript, React
 
 
 
@@ -3364,7 +3378,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=flat-square)](https://github.com/icsharpcode/ILSpy/stargazers) [![Top Language](https://img.shields.io/github/languages/top/icsharpcode/ILSpy?style=flat-square)](https://github.com/icsharpcode/ILSpy) [![Last Commit](https://img.shields.io/github/last-commit/icsharpcode/ILSpy?style=flat-square)](https://github.com/icsharpcode/ILSpy/commits)
 
-> ILSpy提供强大的.NET程序集反编译和代码浏览功能，支持多种前端集成和插件扩展，是.NET开发和逆向分析领域的重要工具。
+> ILSpy通过高效的反编译引擎为.NET开发者提供源码级别的程序集分析与导航，支持多种前端集成和跨平台使用，极大提升了代码理解和调试效率。
 
 🔧 **技术栈:** C#
 
@@ -3395,6 +3409,16 @@
 
 
 ### ◦ 代码生成
+
+#### 📦 [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
+
+[![GitHub stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot/stargazers) [![Top Language](https://img.shields.io/github/languages/top/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot) [![Last Commit](https://img.shields.io/github/last-commit/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot/commits)
+
+> JeecgBoot通过集成AI大模型与低代码技术，实现了高效的零代码和低代码开发，极大提升企业应用开发效率和灵活性，兼顾智能化与可扩展性。
+
+🔧 **技术栈:** Java, Vue3
+
+🏷️ **关键词:** activiti,ai,ant-design-vue,antd,bigscreen,chatgpt,codegenerator,deepseek,flowable,java,jeecgboot,langchain4j,low-code,mybatis,ollama,spring-boot,springboot,springcloud,vue,vue3
 
 #### 📦 [drewnoakes/figgle](https://github.com/drewnoakes/figgle)
 
@@ -3466,18 +3490,6 @@
 
 🏷️ **关键词:** code-generator,codefirst,csharp,db-docs,dbfirst,dbtool,modelfirst,mysql,sqlserver
 
-### ◦ 代码生成器
-
-#### 📦 [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
-
-[![GitHub stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot/stargazers) [![Top Language](https://img.shields.io/github/languages/top/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot) [![Last Commit](https://img.shields.io/github/last-commit/jeecgboot/JeecgBoot?style=flat-square)](https://github.com/jeecgboot/JeecgBoot/commits)
-
-> JeecgBoot融合了低代码开发与AI大模型能力，提供在线表单、流程编排、代码一键生成及AI应用开发平台，极大提升企业开发效率和灵活性，降低成本。
-
-🔧 **技术栈:** Java, Vue3
-
-🏷️ **关键词:** activiti,ai,ant-design-vue,antd,bigscreen,chatgpt,codegenerator,deepseek,flowable,java,jeecgboot,langchain4j,low-code,mybatis,ollama,spring-boot,springboot,springcloud,vue,vue3
-
 ### ◦ 低代码平台
 
 #### 📦 [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
@@ -3496,7 +3508,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/astral-sh/uv?style=flat-square)](https://github.com/astral-sh/uv/stargazers) [![Top Language](https://img.shields.io/github/languages/top/astral-sh/uv?style=flat-square)](https://github.com/astral-sh/uv) [![Last Commit](https://img.shields.io/github/last-commit/astral-sh/uv?style=flat-square)](https://github.com/astral-sh/uv/commits)
 
-> uv通过Rust实现高性能的Python包管理和项目管理，支持依赖解析、虚拟环境、Python版本管理及工具执行，显著提升Python开发效率。
+> uv通过高性能的Rust实现，提供了统一且高效的Python包管理、项目管理和环境管理解决方案，显著提升Python开发者的依赖解析和环境构建速度。
 
 🔧 **技术栈:** Rust, Python
 
@@ -3518,9 +3530,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/tonsky/FiraCode?style=flat-square)](https://github.com/tonsky/FiraCode/stargazers) [![Top Language](https://img.shields.io/github/languages/top/tonsky/FiraCode?style=flat-square)](https://github.com/tonsky/FiraCode) [![Last Commit](https://img.shields.io/github/last-commit/tonsky/FiraCode?style=flat-square)](https://github.com/tonsky/FiraCode/commits)
 
-> Fira Code通过提供专为编程设计的连字字体，显著提升代码的视觉识别效率和开发者的阅读体验，是现代开发环境中广泛采用的编程字体解决方案。
+> Fira Code通过为常见编程符号组合提供连字支持，优化代码显示效果，广泛兼容多种编辑器和终端，是程序员首选的高质量编程字体。
 
-🔧 **技术栈:** Font
+🔧 **技术栈:** C++, Python
 
 🏷️ **关键词:** font,ligatures,programming-ligatures
 
@@ -3542,7 +3554,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n/stargazers) [![Top Language](https://img.shields.io/github/languages/top/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n) [![Last Commit](https://img.shields.io/github/last-commit/n8n-io/n8n?style=flat-square)](https://github.com/n8n-io/n8n/commits)
 
-> n8n通过结合低代码与代码能力，提供灵活且可扩展的工作流自动化解决方案，内置AI功能并支持广泛集成，满足技术团队对自动化和数据控制的需求。
+> n8n结合低代码与代码能力，集成丰富应用接口和AI功能，帮助技术团队高效构建和管理自动化工作流，保障数据自主可控。
 
 🔧 **技术栈:** TypeScript, JavaScript, Python
 
@@ -3578,7 +3590,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/spectreconsole/spectre.console?style=flat-square)](https://github.com/spectreconsole/spectre.console/stargazers) [![Top Language](https://img.shields.io/github/languages/top/spectreconsole/spectre.console?style=flat-square)](https://github.com/spectreconsole/spectre.console) [![Last Commit](https://img.shields.io/github/last-commit/spectreconsole/spectre.console?style=flat-square)](https://github.com/spectreconsole/spectre.console/commits)
 
-> Spectre.Console是一个功能强大的.NET控制台应用开发库，提供丰富的文本样式、表格和布局支持，极大提升控制台应用的用户体验和开发效率。
+> Spectre.Console是一个功能丰富且跨平台的.NET控制台应用开发库，提供类似Python Rich库的高级文本和布局支持，极大提升控制台应用的用户体验和开发效率。
 
 🔧 **技术栈:** C#
 
@@ -3658,11 +3670,21 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/dotnet/AspNetCore.Docs?style=flat-square)](https://github.com/dotnet/AspNetCore.Docs/stargazers) [![Top Language](https://img.shields.io/github/languages/top/dotnet/AspNetCore.Docs?style=flat-square)](https://github.com/dotnet/AspNetCore.Docs) [![Last Commit](https://img.shields.io/github/last-commit/dotnet/AspNetCore.Docs?style=flat-square)](https://github.com/dotnet/AspNetCore.Docs/commits)
 
-> 该仓库作为ASP.NET Core官方文档的集中管理平台，支持开发者快速获取框架知识并参与文档贡献，极大提升了开发者社区的协作效率和技术传播。
+> 该仓库作为微软官方维护的ASP.NET Core文档资源，系统性地支持开发者学习和使用ASP.NET Core框架，促进社区协作和技术传播。
 
 🔧 **技术栈:** Markdown
 
 🏷️ **关键词:** asp,aspnet,aspnet-core,aspnetcore,docs
+
+#### 📦 [jgm/pandoc](https://github.com/jgm/pandoc)
+
+[![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc/stargazers) [![Top Language](https://img.shields.io/github/languages/top/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc) [![Last Commit](https://img.shields.io/github/last-commit/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc/commits)
+
+> Pandoc通过其模块化设计和丰富的输入输出格式支持，实现了高效且灵活的文档格式转换，是文档处理领域的权威工具。
+
+🔧 **技术栈:** Haskell
+
+🏷️ **关键词:** commonmark,converter,document,haskell,markdown,markup,pandoc,presentation,publishing
 
 #### 📦 [dotnet/docfx](https://github.com/dotnet/docfx)
 
@@ -3744,16 +3766,6 @@
 
 
 
-#### 📦 [jgm/pandoc](https://github.com/jgm/pandoc)
-
-[![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc/stargazers) [![Top Language](https://img.shields.io/github/languages/top/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc) [![Last Commit](https://img.shields.io/github/last-commit/jgm/pandoc?style=flat-square)](https://github.com/jgm/pandoc/commits)
-
-> Pandoc作为一个基于Haskell的强大文档转换库和命令行工具，支持丰富的输入输出格式，提供模块化设计和自定义过滤器，极大地简化了跨格式文档转换流程。
-
-🔧 **技术栈:** Haskell
-
-🏷️ **关键词:** commonmark,converter,document,haskell,markdown,markup,pandoc,presentation,publishing
-
 ### ◦ 构建工具
 
 #### 📦 [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)
@@ -3824,16 +3836,6 @@
 
 ### ◦ 测试框架
 
-#### 📦 [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-
-[![GitHub stars](https://img.shields.io/github/stars/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet/stargazers) [![Top Language](https://img.shields.io/github/languages/top/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet) [![Last Commit](https://img.shields.io/github/last-commit/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet/commits)
-
-> BenchmarkDotNet通过自动化、可靠且用户友好的方式，提供专业级的.NET性能基准测试解决方案，广泛应用于众多大型项目中。
-
-🔧 **技术栈:** C#
-
-🏷️ **关键词:** benchmark,benchmarking,c-sharp,csharp,dotnet,hacktoberfest,performance
-
 #### 📦 [robotframework/robotframework](https://github.com/robotframework/robotframework)
 
 [![GitHub stars](https://img.shields.io/github/stars/robotframework/robotframework?style=flat-square)](https://github.com/robotframework/robotframework/stargazers) [![Top Language](https://img.shields.io/github/languages/top/robotframework/robotframework?style=flat-square)](https://github.com/robotframework/robotframework) [![Last Commit](https://img.shields.io/github/last-commit/robotframework/robotframework?style=flat-square)](https://github.com/robotframework/robotframework/commits)
@@ -3884,6 +3886,16 @@
 
 
 
+#### 📦 [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+
+[![GitHub stars](https://img.shields.io/github/stars/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet/stargazers) [![Top Language](https://img.shields.io/github/languages/top/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet) [![Last Commit](https://img.shields.io/github/last-commit/dotnet/BenchmarkDotNet?style=flat-square)](https://github.com/dotnet/BenchmarkDotNet/commits)
+
+> BenchmarkDotNet通过自动化、可靠且用户友好的方式，提供专业级的.NET性能基准测试解决方案，广泛应用于众多大型项目中。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** benchmark,benchmarking,c-sharp,csharp,dotnet,hacktoberfest,performance
+
 ### ◦ 浏览器扩展
 
 #### 📦 [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper)
@@ -3930,6 +3942,16 @@
 
 ### ◦ 第三方库
 
+#### 📦 [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)
+
+[![GitHub stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF/stargazers) [![Top Language](https://img.shields.io/github/languages/top/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF) [![Last Commit](https://img.shields.io/github/last-commit/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF/commits)
+
+> QuestPDF是一个高性能、模块化且功能丰富的.NET PDF生成库，支持复杂文档布局、多语言和多平台，极大简化了PDF文档的创建与操作流程。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** c-sharp,dotnet-core,export,generation,html,invoice,library,nuget,pdf,report
+
 #### 📦 [lukeed/klona](https://github.com/lukeed/klona)
 
 [![GitHub stars](https://img.shields.io/github/stars/lukeed/klona?style=flat-square)](https://github.com/lukeed/klona/stargazers) [![Top Language](https://img.shields.io/github/languages/top/lukeed/klona?style=flat-square)](https://github.com/lukeed/klona) [![Last Commit](https://img.shields.io/github/last-commit/lukeed/klona?style=flat-square)](https://github.com/lukeed/klona/commits)
@@ -3959,16 +3981,6 @@
 🔧 **技术栈:** C#
 
 🏷️ **关键词:** c-sharp,dotnet,reference-implementation,ulid
-
-#### 📦 [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF)
-
-[![GitHub stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF/stargazers) [![Top Language](https://img.shields.io/github/languages/top/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF) [![Last Commit](https://img.shields.io/github/last-commit/QuestPDF/QuestPDF?style=flat-square)](https://github.com/QuestPDF/QuestPDF/commits)
-
-> QuestPDF是一个高性能、模块化且易于使用的.NET PDF生成库，支持复杂布局、多语言和文档操作，极大提升.NET开发者的PDF文档处理效率。
-
-🔧 **技术栈:** C#
-
-🏷️ **关键词:** c-sharp,dotnet-core,export,generation,html,invoice,library,nuget,pdf,report
 
 #### 📦 [HakanL/WkHtmlToPdf-DotNet](https://github.com/HakanL/WkHtmlToPdf-DotNet)
 
@@ -4074,6 +4086,26 @@
 
 ### ◦ 编辑器/IDE
 
+#### 📦 [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil)
+
+[![GitHub stars](https://img.shields.io/github/stars/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil/stargazers) [![Top Language](https://img.shields.io/github/languages/top/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil) [![Last Commit](https://img.shields.io/github/last-commit/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil/commits)
+
+> Sigil利用Qt和Python插件扩展，提供强大的EPUB电子书编辑和管理功能，是电子书制作领域的领先开源工具。
+
+🔧 **技术栈:** C++, Python
+
+
+
+#### 📦 [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+
+[![GitHub stars](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5) [![Last Commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5/commits)
+
+> CKEditor 5 是基于TypeScript构建的高度可扩展的富文本编辑器框架，提供丰富的编辑功能和协作支持，广泛应用于现代Web应用中提升内容编辑体验。
+
+🔧 **技术栈:** TypeScript, JavaScript
+
+🏷️ **关键词:** ckeditor,ckeditor5,contenteditable,javascript,rich-text-editor,rte,wysiwyg,wysiwyg-editor
+
 #### 📦 [mekumiao/ssml-editor](https://github.com/mekumiao/ssml-editor)
 
 [![GitHub stars](https://img.shields.io/github/stars/mekumiao/ssml-editor?style=flat-square)](https://github.com/mekumiao/ssml-editor/stargazers) [![Top Language](https://img.shields.io/github/languages/top/mekumiao/ssml-editor?style=flat-square)](https://github.com/mekumiao/ssml-editor) [![Last Commit](https://img.shields.io/github/last-commit/mekumiao/ssml-editor?style=flat-square)](https://github.com/mekumiao/ssml-editor/commits)
@@ -4144,16 +4176,6 @@
 
 
 
-#### 📦 [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil)
-
-[![GitHub stars](https://img.shields.io/github/stars/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil/stargazers) [![Top Language](https://img.shields.io/github/languages/top/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil) [![Last Commit](https://img.shields.io/github/last-commit/Sigil-Ebook/Sigil?style=flat-square)](https://github.com/Sigil-Ebook/Sigil/commits)
-
-> Sigil利用Qt6和Python插件实现了功能强大的EPUB电子书编辑环境，满足多平台用户对电子书制作和编辑的专业需求。
-
-🔧 **技术栈:** C++, Python
-
-
-
 #### 📦 [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
 
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/cascadia-code?style=flat-square)](https://github.com/microsoft/cascadia-code/stargazers) [![Top Language](https://img.shields.io/github/languages/top/microsoft/cascadia-code?style=flat-square)](https://github.com/microsoft/cascadia-code) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/cascadia-code?style=flat-square)](https://github.com/microsoft/cascadia-code/commits)
@@ -4183,16 +4205,6 @@
 🔧 **技术栈:** TypeScript, JavaScript
 
 🏷️ **关键词:** algorithm,datastructure,interview,leetcode,vscode
-
-#### 📦 [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
-
-[![GitHub stars](https://img.shields.io/github/stars/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5) [![Last Commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5?style=flat-square)](https://github.com/ckeditor/ckeditor5/commits)
-
-> CKEditor 5是基于TypeScript开发的高度可扩展富文本编辑器框架，提供丰富的编辑和协作功能，支持多种前端框架集成，广泛应用于现代Web内容编辑场景。
-
-🔧 **技术栈:** TypeScript, JavaScript
-
-🏷️ **关键词:** ckeditor,ckeditor5,contenteditable,javascript,rich-text-editor,rte,wysiwyg,wysiwyg-editor
 
 #### 📦 [slab/quill](https://github.com/slab/quill)
 
@@ -4536,7 +4548,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) [![Top Language](https://img.shields.io/github/languages/top/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/freeCodeCamp/freeCodeCamp) [![Last Commit](https://img.shields.io/github/last-commit/freeCodeCamp/freeCodeCamp?style=flat-square)](https://github.com/freeCodeCamp/freeCodeCamp/commits)
 
-> 该项目通过交互式课程和自动化测试，结合前后端技术栈，打造了一个高质量、社区驱动的免费编程教育生态系统，广泛支持多种编程语言和技术领域。
+> 该项目通过丰富的交互式课程和认证体系，结合现代前后端技术栈，构建了一个全球知名的免费编程教育社区和学习平台，极大地促进了编程教育的普及和职业转型。
 
 🔧 **技术栈:** JavaScript, React, Node.js
 
@@ -4562,7 +4574,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/DotNetNext/SqlSugar?style=flat-square)](https://github.com/DotNetNext/SqlSugar/stargazers) [![Top Language](https://img.shields.io/github/languages/top/DotNetNext/SqlSugar?style=flat-square)](https://github.com/DotNetNext/SqlSugar) [![Last Commit](https://img.shields.io/github/last-commit/DotNetNext/SqlSugar?style=flat-square)](https://github.com/DotNetNext/SqlSugar/commits)
 
-> SqlSugar通过简洁的API设计和丰富的功能支持，实现了跨多种主流数据库的高效ORM操作，适合.NET生态中需要低代码和高性能数据库访问的应用场景。
+> SqlSugar通过简洁的API和丰富的功能支持多种主流数据库，实现高效的对象关系映射和大数据处理，适合.NET生态下的企业级应用开发。
 
 🔧 **技术栈:** C#
 
@@ -4728,7 +4740,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/mrdoob/three.js?style=flat-square)](https://github.com/mrdoob/three.js/stargazers) [![Top Language](https://img.shields.io/github/languages/top/mrdoob/three.js?style=flat-square)](https://github.com/mrdoob/three.js) [![Last Commit](https://img.shields.io/github/last-commit/mrdoob/three.js?style=flat-square)](https://github.com/mrdoob/three.js/commits)
 
-> three.js是一个广泛使用且高效的JavaScript 3D渲染库，支持多种渲染技术，简化了Web端3D图形的开发和展示。
+> three.js是一个广泛使用的JavaScript 3D渲染库，支持多种渲染技术，简化了Web端3D内容的创建和交互，极大推动了网页3D和虚拟现实的发展。
 
 🔧 **技术栈:** JavaScript
 
@@ -4812,7 +4824,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/gedoor/legado?style=flat-square)](https://github.com/gedoor/legado/stargazers) [![Top Language](https://img.shields.io/github/languages/top/gedoor/legado?style=flat-square)](https://github.com/gedoor/legado) [![Last Commit](https://img.shields.io/github/last-commit/gedoor/legado?style=flat-square)](https://github.com/gedoor/legado/commits)
 
-> Legado通过高度自定义的书源规则和阅读界面，实现了功能强大且无广告的开源Android小说阅读应用，满足用户多样化的网络文学阅读需求。
+> Legado通过高度自定义的书源规则和阅读界面，结合开源生态，为用户提供功能强大且无广告的网络小说阅读解决方案，体现了优秀的Android移动应用开发实践。
 
 🔧 **技术栈:** Kotlin, Java
 
@@ -5010,27 +5022,17 @@
 
 🏷️ **关键词:** android,bittorrent,cross-platform,debian,downloader,flutter,golang,http,https,ios,macos,magnet,torrent,ubuntu,windows
 
-### ◦ 代理工具
+### ◦ 代理客户端
 
-#### 📦 [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac)
+#### 📦 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
 
-[![GitHub stars](https://img.shields.io/github/stars/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac/stargazers) [![Top Language](https://img.shields.io/github/languages/top/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac) [![Last Commit](https://img.shields.io/github/last-commit/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac/commits)
+[![GitHub stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev/stargazers) [![Top Language](https://img.shields.io/github/languages/top/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev) [![Last Commit](https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev/commits)
 
-> 该仓库通过自动化脚本每日更新gfwlist生成PAC文件，简化了网络代理配置管理，提升了用户访问受限资源的便捷性。
+> Clash Verge Rev是一款基于Rust和Tauri构建的高性能跨平台代理客户端，集成Clash.Meta内核，支持多种代理协议和丰富的配置管理，提升用户网络代理体验。
 
-🔧 **技术栈:** Python
+🔧 **技术栈:** Rust, Tauri (前端框架)
 
-
-
-#### 📦 [2dust/v2rayN](https://github.com/2dust/v2rayN)
-
-[![GitHub stars](https://img.shields.io/github/stars/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN/stargazers) [![Top Language](https://img.shields.io/github/languages/top/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN) [![Last Commit](https://img.shields.io/github/last-commit/2dust/v2rayN?style=flat-square)](https://github.com/2dust/v2rayN/commits)
-
-> v2rayN是一个跨平台的图形化代理客户端，集成多种代理协议核心，提供便捷的网络代理管理和配置功能，广泛应用于网络加密和隐私保护领域。
-
-🔧 **技术栈:** C#, 无
-
-🏷️ **关键词:** proxy,shadowsocks,socks5,trojan,v2fly,v2ray,vless,vmess,windows,xray,xtls
+🏷️ **关键词:** clash,clash-meta,clash-verge,linux,mac,mihomo,tauri-app,windows
 
 ### ◦ 任务调度
 
@@ -5112,6 +5114,16 @@
 
 ### ◦ 操作系统组件
 
+#### 📦 [microsoft/terminal](https://github.com/microsoft/terminal)
+
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal/stargazers) [![Top Language](https://img.shields.io/github/languages/top/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal/commits)
+
+> 这是一个基于C++开发的现代Windows命令行终端和控制台宿主程序，融合了传统控制台的兼容性与新终端的丰富功能，极大提升Windows命令行用户体验。
+
+🔧 **技术栈:** C++, PowerShell
+
+🏷️ **关键词:** cmd,command-line,console,contributions-welcome,good-first-issue,hacktoberfest,terminal,windows,windows-console,windows-terminal,wsl
+
 #### 📦 [RROrg/rr](https://github.com/RROrg/rr)
 
 [![GitHub stars](https://img.shields.io/github/stars/RROrg/rr?style=flat-square)](https://github.com/RROrg/rr/stargazers) [![Top Language](https://img.shields.io/github/languages/top/RROrg/rr?style=flat-square)](https://github.com/RROrg/rr) [![Last Commit](https://img.shields.io/github/last-commit/RROrg/rr?style=flat-square)](https://github.com/RROrg/rr/commits)
@@ -5121,16 +5133,6 @@
 🔧 **技术栈:** Shell, Makefile
 
 🏷️ **关键词:** bootloader,dsm,redpill,synology
-
-#### 📦 [microsoft/terminal](https://github.com/microsoft/terminal)
-
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal/stargazers) [![Top Language](https://img.shields.io/github/languages/top/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/terminal?style=flat-square)](https://github.com/microsoft/terminal/commits)
-
-> 该仓库集成了Windows终端和控制台主机的核心代码，采用现代C++技术实现，极大提升了Windows命令行体验的功能性和性能，是Windows系统命令行环境的重要组成部分。
-
-🔧 **技术栈:** C++, PowerShell
-
-🏷️ **关键词:** cmd,command-line,console,contributions-welcome,good-first-issue,hacktoberfest,terminal,windows,windows-console,windows-terminal,wsl
 
 #### 📦 [MVDB0110/OC-XPS13-7390](https://github.com/MVDB0110/OC-XPS13-7390)
 
@@ -5198,7 +5200,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=flat-square)](https://github.com/syncthing/syncthing/stargazers) [![Top Language](https://img.shields.io/github/languages/top/syncthing/syncthing?style=flat-square)](https://github.com/syncthing/syncthing) [![Last Commit](https://img.shields.io/github/last-commit/syncthing/syncthing?style=flat-square)](https://github.com/syncthing/syncthing/commits)
 
-> Syncthing利用Go语言实现点对点文件同步，强调数据安全、无中心服务器和跨平台支持，是个人用户安全高效的文件同步解决方案。
+> Syncthing通过点对点技术提供安全、去中心化的文件同步解决方案，保障数据安全与用户隐私，适合个人和跨设备文件管理。
 
 🔧 **技术栈:** Go
 
@@ -5300,7 +5302,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/PowerToys?style=flat-square)](https://github.com/microsoft/PowerToys/stargazers) [![Top Language](https://img.shields.io/github/languages/top/microsoft/PowerToys?style=flat-square)](https://github.com/microsoft/PowerToys) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/PowerToys?style=flat-square)](https://github.com/microsoft/PowerToys/commits)
 
-> PowerToys通过一系列模块化的系统实用工具，优化Windows操作系统的界面和功能，极大提升高级用户的工作效率和系统定制能力。
+> PowerToys通过一系列高效的Windows系统增强工具，提供窗口管理、快捷启动、颜色选择等多功能，极大优化了高级用户的操作效率和系统定制能力。
 
 🔧 **技术栈:** C#, XAML
 
@@ -5440,17 +5442,17 @@
 
 🏷️ **关键词:** gfw,gui,juicity,linux,shadowsocks,shadowsocksr,ssr,trojan,tuic,v2ray
 
-### ◦ 网络代理客户端
+### ◦ 网络代理工具
 
-#### 📦 [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+#### 📦 [petronny/gfwlist2pac](https://github.com/petronny/gfwlist2pac)
 
-[![GitHub stars](https://img.shields.io/github/stars/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev/stargazers) [![Top Language](https://img.shields.io/github/languages/top/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev) [![Last Commit](https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev?style=flat-square)](https://github.com/clash-verge-rev/clash-verge-rev/commits)
+[![GitHub stars](https://img.shields.io/github/stars/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac/stargazers) [![Top Language](https://img.shields.io/github/languages/top/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac) [![Last Commit](https://img.shields.io/github/last-commit/petronny/gfwlist2pac?style=flat-square)](https://github.com/petronny/gfwlist2pac/commits)
 
-> 该项目利用Rust和Tauri构建高性能跨平台代理客户端，集成Clash.Meta内核，支持多平台系统代理和虚拟网卡，提升用户网络代理体验。
+> 该项目通过自动转换和更新GFWList为PAC文件，简化了网络代理配置，提升了用户访问被屏蔽网站的便捷性和效率。
 
-🔧 **技术栈:** Rust, Tauri (前端框架)、TypeScript
+🔧 **技术栈:** Python
 
-🏷️ **关键词:** clash,clash-meta,clash-verge,linux,mac,mihomo,tauri-app,windows
+
 
 ### ◦ 网络代理性能测试工具
 
@@ -5552,6 +5554,16 @@
 
 ### ◦ 第三方库
 
+#### 📦 [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
+
+[![GitHub stars](https://img.shields.io/github/stars/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader) [![Last Commit](https://img.shields.io/github/last-commit/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader/commits)
+
+> ExcelDataReader是一个专注于Excel文件读取的高性能C#库，支持多版本Excel格式和CSV，便于.NET应用程序快速集成和处理表格数据。
+
+🔧 **技术栈:** C#
+
+🏷️ **关键词:** csharp,dotnet,excel,parser,xls,xlsb,xlsx
+
 #### 📦 [toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words)
 
 [![GitHub stars](https://img.shields.io/github/stars/toolgood/ToolGood.Words?style=flat-square)](https://github.com/toolgood/ToolGood.Words/stargazers) [![Top Language](https://img.shields.io/github/languages/top/toolgood/ToolGood.Words?style=flat-square)](https://github.com/toolgood/ToolGood.Words) [![Last Commit](https://img.shields.io/github/last-commit/toolgood/ToolGood.Words?style=flat-square)](https://github.com/toolgood/ToolGood.Words/commits)
@@ -5601,16 +5613,6 @@
 🔧 **技术栈:** C#
 
 🏷️ **关键词:** international,microsoft,pinyinconvertercore
-
-#### 📦 [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
-
-[![GitHub stars](https://img.shields.io/github/stars/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader/stargazers) [![Top Language](https://img.shields.io/github/languages/top/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader) [![Last Commit](https://img.shields.io/github/last-commit/ExcelDataReader/ExcelDataReader?style=flat-square)](https://github.com/ExcelDataReader/ExcelDataReader/commits)
-
-> ExcelDataReader是一个高性能的.NET库，提供对多种Excel文件格式的读取支持，方便开发者在C#环境中解析和处理电子表格数据。
-
-🔧 **技术栈:** C#
-
-🏷️ **关键词:** csharp,dotnet,excel,parser,xls,xlsb,xlsx
 
 #### 📦 [itext/itext-dotnet](https://github.com/itext/itext-dotnet)
 
@@ -5722,9 +5724,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/GMOogway/shadowrocket-rules?style=flat-square)](https://github.com/GMOogway/shadowrocket-rules/stargazers) [![Top Language](https://img.shields.io/github/languages/top/GMOogway/shadowrocket-rules?style=flat-square)](https://github.com/GMOogway/shadowrocket-rules) [![Last Commit](https://img.shields.io/github/last-commit/GMOogway/shadowrocket-rules?style=flat-square)](https://github.com/GMOogway/shadowrocket-rules/commits)
 
-> 该仓库通过模块化规则形式，结合丰富的直连、代理和屏蔽规则，实现了Shadowrocket客户端的精准分流和广告过滤，极大提升了用户的网络访问体验和配置灵活性。
+> 该仓库通过模块化规则文件为Shadowrocket客户端提供高效、灵活且持续更新的网络代理和屏蔽策略，提升用户上网体验和访问控制能力。
 
-🔧 **技术栈:** 文本/配置文件
+🔧 **技术栈:** 文本规则文件
 
 🏷️ **关键词:** adblock,direct,gfw,gfwlist,ios,proxy,reject,rules,shadowrocket,ss,v2ray,xray
 
