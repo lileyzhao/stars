@@ -28,6 +28,7 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
         KEY: ${{ secrets.OPENAI_KEY }}
+        OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
       run: |
         cd src
         uv run main.py -y -r -u ${USERNAME} -t ${TOKEN} -k ${KEY} -l ${LANG}
@@ -41,4 +42,4 @@ jobs:
         git add -A
         git status
         git commit -m "Update from daily run [skip ci]" || echo "No changes to commit"
-        git push 
+        git push

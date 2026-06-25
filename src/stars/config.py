@@ -54,9 +54,9 @@ class AppConfig:
             github_username=os.getenv("GITHUB_USERNAME", ""),
             github_token=os.getenv("GITHUB_TOKEN", ""),
             openai_api_key=os.getenv("OPENAI_API_KEY", ""),
-            openai_base_url=os.getenv("OPENAI_BASE_URL", None),
+            openai_base_url=os.getenv("OPENAI_BASE_URL") or None,
             language=Language.EN,  # 默认使用英语
             output_dir=None,
             include_urls=False,
             include_stats=False,
-        ) 
+        )
