@@ -259,7 +259,7 @@ class OpenAIAnalyzer:
         try:
             # 发送请求
             response = self.client.chat.completions.create(
-                model="gpt-5.4-mini",  # 使用合适的模型
+                model="qwen3.6-flash",  # 使用合适的模型
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": user_prompt},
