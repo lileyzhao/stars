@@ -25,7 +25,7 @@
 ## 🛠️ 快速使用
 
 1. 克隆本仓库
-2. 在仓库的 `Settings > Secrets and variables > Actions > Repository secrets` 下新增以下变量：
+2. 在仓库的 `Settings > Secrets and variables > Actions > Repository secrets` 下新增以下 secrets：
    - `LANGUAGE`: 设置语言，支持以下选项：
      - `en`: 英语
      - `zh-CN`: 简体中文
@@ -36,6 +36,9 @@
      - `de`: 德语
      - `ru`: 俄语
    - `OPENAI_KEY`: 你的 OpenAI API 密钥
+   在 `Repository variables` 下可选新增以下 variables：
+   - `OPENAI_BASE_URL`: OpenAI 兼容 API 基础地址
+   - `OPENAI_MODEL`: OpenAI 兼容 API 模型名称，默认 `gpt-5.4-mini`
 3. 在 `Settings > Actions > General` 页面底部，将 `Workflow permissions` 切换至 `Read and write permissions` 并保存
 
 ## 🛠️ 本地运行

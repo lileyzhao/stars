@@ -25,7 +25,7 @@
 ## 🛠️ Quick Start
 
 1. Clone this repository
-2. Add the following variables under `Settings > Secrets and variables > Actions > Repository secrets`:
+2. Add the following secrets under `Settings > Secrets and variables > Actions > Repository secrets`:
    - `LANGUAGE`: Set language, supports the following options:
      - `en`: English
      - `zh-CN`: Simplified Chinese
@@ -36,6 +36,9 @@
      - `de`: German
      - `ru`: Russian
    - `OPENAI_KEY`: Your OpenAI API key
+   Optionally add the following variables under `Repository variables`:
+   - `OPENAI_BASE_URL`: OpenAI-compatible API base URL
+   - `OPENAI_MODEL`: OpenAI-compatible API model name, defaults to `gpt-5.4-mini`
 3. At the bottom of `Settings > Actions > General`, switch `Workflow permissions` to `Read and write permissions` and save
 
 ## 🛠️ Local Development

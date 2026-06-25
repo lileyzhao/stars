@@ -13,6 +13,8 @@ from rich.prompt import Confirm
 # 导入语言模块
 from .i18n.languages import Language
 
+DEFAULT_OPENAI_MODEL = "gpt-5.4-mini"
+
 # 加载.env文件中的环境变量
 load_dotenv()
 
@@ -28,6 +30,7 @@ class AppConfig:
     github_token: str
     openai_api_key: str
     openai_base_url: Optional[str] = None
+    openai_model: str = DEFAULT_OPENAI_MODEL
     language: Language = Language.EN  # 语言设置
     output_dir: Optional[Path] = None
     include_urls: bool = False
@@ -55,6 +58,7 @@ class AppConfig:
             github_token=os.getenv("GITHUB_TOKEN", ""),
             openai_api_key=os.getenv("OPENAI_API_KEY", ""),
             openai_base_url=os.getenv("OPENAI_BASE_URL") or None,
+            openai_model=(os.getenv("OPENAI_MODEL") or "").strip() or DEFAULT_OPENAI_MODEL,
             language=Language.EN,  # 默认使用英语
             output_dir=None,
             include_urls=False,

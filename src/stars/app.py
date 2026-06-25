@@ -58,7 +58,8 @@ class Application:
         self.openai_analyzer = OpenAIAnalyzer(
             self.config.openai_api_key,
             self.config.openai_base_url,
-            language=language
+            language=language,
+            model=self.config.openai_model
         )
         
         # 初始化导出器

@@ -29,6 +29,8 @@ logger = logging.getLogger(__name__)
 # 创建控制台对象
 console = Console()
 
+DEFAULT_OPENAI_MODEL = "gpt-5.4-mini"
+
 # 统一中文提示模板，使用占位符支持多语言
 SYSTEM_PROMPT = "你是一个专业的GitHub仓库分析专家，擅长对仓库进行分类整理。请充分利用你已有的GitHub知识库。当分析仓库时，如果你认识这个项目或类似项目，应当应用你对它的已有知识，而不仅仅依赖提供的描述。"
 
@@ -97,7 +99,7 @@ Star数: {stargazers_count}
 class OpenAIAnalyzer:
     """OpenAI API分析类。"""
 
-    def __init__(self, api_key: str, base_url: Optional[str] = None, language: Language = Language.EN, skip_validation: bool = False):
+    def __init__(self, api_key: str, base_url: Optional[str] = None, language: Language = Language.EN, skip_validation: bool = False, model: Optional[str] = None):
         """
         初始化OpenAIAnalyzer实例。
 
@@ -106,9 +108,11 @@ class OpenAIAnalyzer:
             base_url: OpenAI API基础URL（可选）
             language: 使用的语言
             skip_validation: 是否跳过API验证（仅用于测试）
+            model: OpenAI兼容API模型名称
         """
         self.api_key = api_key
         self.base_url = base_url
+        self.model = (model or "").strip() or DEFAULT_OPENAI_MODEL
         
         # 确保language是字符串类型
         if isinstance(language, Language) or hasattr(language, 'value'):
@@ -259,7 +263,7 @@ class OpenAIAnalyzer:
         try:
             # 发送请求
             response = self.client.chat.completions.create(
-                model="qwen3.6-flash",  # 使用合适的模型
+                model=self.model,
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": user_prompt},
